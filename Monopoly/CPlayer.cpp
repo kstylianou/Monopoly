@@ -8,7 +8,7 @@ CPlayer::CPlayer(std::string name)
 	playerOwns = new v_PlayerOwns;
 	this->name = name;
 	this->position = 1;
-	this->money = 0;
+	this->money = 1500;
 }
 
 CPlayer::~CPlayer()
@@ -19,7 +19,9 @@ CPlayer::~CPlayer()
 
 int CPlayer::roll()
 {
-	return static_cast<int>(static_cast<double> (rand()) / (RAND_MAX + 1) * 6.0f + 1);
+	int roll = static_cast<int>(static_cast<double> (rand()) / (RAND_MAX + 1) * 6.0f + 1);
+	cout << "\n<" + this->name + ">" << " rolls " << roll << endl;
+	return roll;
 }
 
 int CPlayer::MovePlayerPosition(int roolNum)
@@ -46,7 +48,8 @@ void CPlayer::PlayerPassesGo()
 void CPlayer::PlayerOwnsNewProperty(int propertyIndex, int colour)
 {
 	playerOwns->push_back(propertyIndex);
-	colourSquares->push_back(colour);
+	if (colour != NULL)
+		colourSquares->push_back(colour);
 }
 
 bool CPlayer::PlayerOwns(int propertyIndex)

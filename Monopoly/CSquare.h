@@ -16,7 +16,7 @@ public:
 	CSquare(string name, int code);
 	//~CSquare();
 
-	void PlayerLands(s_Player players, int roundPlayerIndex, int squareIndex);
+	virtual void PlayerLands(s_Player players, int roundPlayerIndex, int squareIndex);
 	virtual void PlayerReword(s_Player players, int roundPlayerIndex, int squareIndex);
 	
 	// Getters:

@@ -8,7 +8,7 @@ CSquare::CSquare(string name, int code)
 
 void CSquare::PlayerLands(s_Player players, int roundPlayerIndex, int squareIndex)
 {
-	cout << "\n<" + players->at(roundPlayerIndex)->GetName() + ">" << " lands on " << this->name << endl;
+	cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " lands on " << this->name << endl;
 
 	PlayerReword(players, roundPlayerIndex, squareIndex);
 
@@ -17,5 +17,5 @@ void CSquare::PlayerLands(s_Player players, int roundPlayerIndex, int squareInde
 
 void CSquare::PlayerReword(s_Player players, int roundPlayerIndex, int squareIndex)
 {
-	cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << static_cast<char>(156) << " pays  0" << endl;
+	cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " pays "<< static_cast<char>(156) << "0" << endl;
 }

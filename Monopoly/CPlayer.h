@@ -33,6 +33,7 @@ public:
 	string GetName() { return name; }
 	int GetMoney() { return money; }
 	void SetMoney(int i) { money = i; }
+	void SetPosition(int i) { position = i; }
 private:
 	string name;
 	int position;

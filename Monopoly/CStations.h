@@ -7,8 +7,11 @@ public:
 	CStations(std::string name, int code, int cost, int ticket);
 	//~CStations();
 
+	void PlayerReword(s_Player players, int roundPlayerIndex, int squareIndex) override;
+
 private:
 	int cost;
 	int ticket;
+	bool isOwned;
 };
 

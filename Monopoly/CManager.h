@@ -22,7 +22,7 @@ typedef shared_ptr<CSquare> s_Squares;
 
 #define STATE_RUNNING   1
 #define STATE_FINISH    0
-#define PLAYERS_NUM		2
+#define PLAYERS_NUM		4
 #define SQUARES_NUM		26
 
 class CManager

@@ -16,8 +16,8 @@ CManager::CManager()
 
 	this->player_names.push_back(std::make_shared<std::string>("Dog"));
 	this->player_names.push_back(std::make_shared<std::string>("Car"));
-	/*this->player_names.push_back(std::make_shared<std::string>("Shoe"));
-	this->player_names.push_back(std::make_shared<std::string>("Hat"));*/
+	this->player_names.push_back(std::make_shared<std::string>("Shoe"));
+	this->player_names.push_back(std::make_shared<std::string>("Hat"));
 }
 
 // Manager destructor
