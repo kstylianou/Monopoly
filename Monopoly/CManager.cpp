@@ -50,6 +50,7 @@ void CManager::StartGame()
 	
 }
 
+// Update players round
 void CManager::UpdateRound()
 {
 	while(this->state)
@@ -63,6 +64,7 @@ void CManager::UpdateRound()
 	}
 }
 
+// Update game for each player
 void CManager::UpdateGame()
 {
 	switch (this->state)
@@ -70,6 +72,7 @@ void CManager::UpdateGame()
 	case STATE_RUNNING:
 		for(int i = 0; i < PLAYERS_NUM; i++)
 		{
+			cout << endl;
 			int playerRolls = player->at(playerSort[i])->roll();
 			int playerPosition = player->at(playerSort[i])->MovePlayerPosition(playerRolls);
 			square->at(playerPosition)->PlayerLands(player, playerSort[i], playerPosition);
@@ -77,11 +80,11 @@ void CManager::UpdateGame()
 		break;
 		
 	case STATE_FINISH:
+		cout << "\nGame Over" << endl;
+		GetWinner();
 		break;
 	}
 }
-
-
 
  //Load squares from file
 s_Squares CManager::SetSquares(std::string line)
@@ -156,6 +159,7 @@ bool CManager::SetPlayers()
 	return false;
 }
 
+// Read file and load CSquare
 bool CManager::OpenSquareFile()
 {
 	string line;
@@ -178,13 +182,16 @@ bool CManager::OpenSquareFile()
 	return false;
 }
 
+// Display welcome message
 void CManager::WelcomeMessage()
 {
 	cout << "Welcome to Monopol-ish" << endl;
 }
 
+// Before game start all players roll dice to find whose playing first
 void CManager::GetFirstPlayer()
 {
+	cout << "\nPlayer roll to get position" << endl;
 	srand(seed);
 	int nums[PLAYERS_NUM];
 	for (int i = 0; i < PLAYERS_NUM; i++)
@@ -211,6 +218,25 @@ void CManager::GetFirstPlayer()
 		}
 	}
 
+}
+
+// Get the winner with the highest money
+void CManager::GetWinner()
+{
+	int max = player->at(0)->GetMoney();
+	int index = 0;
+	for (int i = 0; i < PLAYERS_NUM; i++)
+	{
+		cout << "<" + player->at(playerSort[i])->GetName() + ">" << " has " << player->at(playerSort[i])->GetMoney() << endl;
+		if (max < player->at(i)->GetMoney())
+		{
+			max = player->at(i)->GetMoney();
+			index = i;
+		}
+
+	}
+
+	cout << "<" + player->at(index)->GetName() + ">" << " wins." << endl;
 }
 
 

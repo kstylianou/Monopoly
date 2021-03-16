@@ -16,14 +16,17 @@ public:
 	CSquare(string name, int code);
 	//~CSquare();
 
-	virtual void PlayerLands(s_Player players, int roundPlayerIndex, int squareIndex);
+	void PlayerLands(s_Player players, int roundPlayerIndex, int squareIndex);
 	virtual void PlayerReword(s_Player players, int roundPlayerIndex, int squareIndex);
+	virtual void PrintSquareMessage(s_Player players, int roundPlayerIndex, int squareIndex);
 	
 	// Getters:
 	string GetName() { return name; }
 	int GetCode() { return code; }
 
-protected:
+private:
+	void PrintPlayerSquareLands(string name);
+	
 	string name;
 	int code;
 };

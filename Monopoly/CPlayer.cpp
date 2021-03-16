@@ -20,7 +20,7 @@ CPlayer::~CPlayer()
 int CPlayer::roll()
 {
 	int roll = static_cast<int>(static_cast<double> (rand()) / (RAND_MAX + 1) * 6.0f + 1);
-	cout << "\n<" + this->name + ">" << " rolls " << roll << endl;
+	cout << "<" + this->name + ">" << " rolls " << roll << endl;
 	return roll;
 }
 
@@ -91,4 +91,9 @@ bool CPlayer::PlayerOwnsAllColour(int colour)
 	case 7:
 		return (count == PURPLE_COLOUR);
 	}
+}
+
+void CPlayer::PrintMoney()
+{
+	cout << "<" + this->name + ">" << " has  " << static_cast<char>(156) << this->money << endl;
 }

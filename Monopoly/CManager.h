@@ -47,6 +47,7 @@ protected:
 	bool OpenSquareFile();
 	static void WelcomeMessage();
 	void GetFirstPlayer();
+	void GetWinner();
 
 	v_Player* player;
 	v_Player* sortedPlayers;

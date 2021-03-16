@@ -29,6 +29,7 @@ public:
 	void PlayerOwnsNewProperty(int propertyIndex, int colour);
 	bool PlayerOwns(int propertyIndex);
 	bool PlayerOwnsAllColour(int colour);
+	void PrintMoney();
 	
 	string GetName() { return name; }
 	int GetMoney() { return money; }
