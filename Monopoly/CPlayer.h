@@ -18,7 +18,8 @@
 
 using namespace std;
 
-typedef vector<int> v_int;
+typedef unique_ptr<vector<int>> v_int;
+typedef vector<int> v_newInt;
 
 class CPlayer
 {
@@ -39,10 +40,8 @@ public:
 	bool PlayerHasMortgageProperty();
 	void PlayerPaysMortagePropery(int squareIndex);
 	int GetMortgageByIndex(int index);
-	int GetMortgageLength();
 	bool PlayerHasNegativeMoney();
 	int GetOwnPropertyByIndex(int index);
-	bool isPlaying();
 	void PlayerBankrupt();
 	
 	string GetName() const { return name; }
@@ -50,14 +49,16 @@ public:
 	void SetMoney(int i) { money = i; }
 	void SetPosition(int i) { position = i; }
 	int OwnPropertyLength() { return playerOwns->size(); }
-	
+	bool isPlaying() { return this->state; }
+	int GetMortgageLength() { return mortgageProperties->size(); }
+
 private:
 	string name;
 	int position;
 	int money;
-	v_int* playerOwns;
-	v_int* colourSquares;
-	v_int* mortgageProperties;
+	v_int playerOwns;
+	v_int colourSquares;
+	v_int mortgageProperties;
 	int state;
 };
 

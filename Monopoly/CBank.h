@@ -1,15 +1,23 @@
 #pragma once
 #include "CPlayer.h"
 #include "CSquare.h"
-typedef std::vector<std::shared_ptr<CSquare>> v_Square;
+typedef shared_ptr<vector<shared_ptr<CSquare>>> v_Square;
 class CBank
 {
 public:
-	CBank() {};
+	// Constructor
+	CBank();
 
-	void CheckPlayer(shared_ptr<CPlayer> player, v_Square* squares);
-	void MortgagePlayerProperty(shared_ptr<CPlayer> player, v_Square* squares, int squareIndex);
-	void PayMortgageProperty(shared_ptr<CPlayer> player, v_Square* squares);
-	int GetMinPropertyCost(shared_ptr<CPlayer> player, v_Square* squares, int& index);
+	// Destructor
+	~CBank();
+
+	// Public member functions
+	void CheckPlayer(shared_ptr<CPlayer> player, v_Square squares);
+	void PayMortgageProperty(shared_ptr<CPlayer> player, v_Square squares);
+
+private:
+	// Private member functions
+	int GetMinPropertyCost(shared_ptr<CPlayer> player, v_Square squares, int& index);
+	void MortgagePlayerProperty(shared_ptr<CPlayer> player, v_Square squares, int squareIndex);
 };
 

@@ -9,9 +9,9 @@ using namespace std;
 // Manager constructor
 CManager::CManager()
 {
-	this->square = new v_Square;
-	this->player = new v_Player;
-	this->bank = new CBank();
+	this->square = make_shared<v_new_Square>();
+	this->player = make_shared<v_newPlayer>();
+	this->bank = make_unique<CBank>();
 	this->state = STATE_RUNNING;
 	this->round = 0;
 
@@ -24,9 +24,7 @@ CManager::CManager()
 // Manager destructor
 CManager::~CManager()
 {
-	delete square;
-	delete player;
-	delete bank;
+
 }
 
 // Load game method
@@ -58,10 +56,12 @@ void CManager::UpdateRound()
 {
 	while(this->state)
 	{
+
+		PlayerAreBankrupt();
 		
 		UpdateGame();
 		
-		PlayerAreBankrupt();
+		
 		
 		this->round++;
 	}
@@ -93,6 +93,7 @@ void CManager::UpdateGame()
 	case STATE_FINISH:
 		cout << "\nGame Over" << endl;
 		GetWinner();
+		cout << round << endl;
 		break;
 	}
 }
@@ -248,6 +249,7 @@ void CManager::GetWinner()
 	}
 
 	cout << "<" + player->at(index)->GetName() + ">" << " wins." << endl;
+	
 }
 
 void CManager::PlayerAreBankrupt()

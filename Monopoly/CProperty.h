@@ -7,17 +7,27 @@ class CProperty : public CSquare
 {
 public:
 	// Constructor
-	CProperty(std::string name, int code, int cost, int rent, int colour);
+	CProperty(string name, int code, int cost, int rent, int colour);
+	
+	// Destructor
+	~CProperty();
 
+	// Override functions from CSqure
 	void PlayerReword(s_Player players, int roundPlayerIndex, int squareIndex) override;
-//
 	int GetCost() override { return this->cost; }
+
+
 private:
-	std::string name; // Square name
+	// Private member functions
+	bool CheckIfPropertyIsOwned(s_Player players, int squareIndex);
+	void PlayerBuysProperty(s_Player players, int roundPlayerIndex, int squareIndex);
+	void PlayerPaysRent(s_Player players, int roundPlayerIndex, int squareIndex);
+
+	// Private variables
+	string name; // Square name
 	int code; // Square code
 	int cost; // Property cost
 	int rent; // Property rent
 	int colour; // Property colour
-	bool isOwned;
 };
 

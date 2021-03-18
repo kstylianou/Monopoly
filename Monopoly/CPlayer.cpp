@@ -2,37 +2,42 @@
 
 #include <iostream>
 
+// Constructor
 CPlayer::CPlayer(std::string name)
 {
-	colourSquares = new v_int;
-	playerOwns = new v_int;
-	mortgageProperties = new v_int;
+	colourSquares = make_unique<v_newInt>();
+	playerOwns = make_unique<v_newInt>();
+	mortgageProperties = make_unique<v_newInt>();
+	
 	this->name = name;
 	this->position = 1;
 	this->money = 1500;
 	state = PLAYER_PLAYING;
 }
 
+// Destructor
 CPlayer::~CPlayer()
 {
-	delete playerOwns;
-	delete colourSquares;
-	delete mortgageProperties;
+	
 }
 
+// Player roll dice
 int CPlayer::roll()
 {
-	int roll = static_cast<int>(static_cast<double> (rand()) / (RAND_MAX + 1) * 6.0f + 1);
+	int roll = static_cast<int>(static_cast<double> (rand()) / (RAND_MAX + 1) * 6.0f + 1); // Get the random number
+	// Print the number tha player rolls
 	cout << "<" + this->name + ">" << " rolls " << roll << endl;
 	return roll;
 }
 
+// Change player position
 int CPlayer::MovePlayerPosition(int roolNum)
 {
+	// If position is greater thank squares player continue from GO (index = 0)
 	if (position + roolNum > SQUARES_NUM)
 	{
 		position = position + roolNum - SQUARES_NUM;
-		PlayerPassesGo();
+		PlayerPassesGo(); // Player passes go 
 	}
 	else
 	{
@@ -42,19 +47,26 @@ int CPlayer::MovePlayerPosition(int roolNum)
 	return position - 1;
 }
 
+// If player passes go gets 200
 void CPlayer::PlayerPassesGo()
 {
-	money += 200;
+	money += 200; // Add 200 to player money
+	
+	// Print tha player passes go
 	cout << "<" + name + ">" << " passes GO and collects " << static_cast<char>(156) << 200 << endl;
 }
 
+// When player buys new property
 void CPlayer::PlayerOwnsNewProperty(int propertyIndex, int colour)
 {
+	// Push the square index
 	playerOwns->push_back(propertyIndex);
+	// Check if color is not null
 	if (colour != NULL)
-		colourSquares->push_back(colour);
+		colourSquares->push_back(colour); // Push the color number
 }
 
+// Check if player owns square
 bool CPlayer::PlayerOwns(int propertyIndex)
 {
 	for (int playerOwn : *playerOwns) 
@@ -66,15 +78,18 @@ bool CPlayer::PlayerOwns(int propertyIndex)
 	return false;
 }
 
+// Check if player owns all from specific color code
 bool CPlayer::PlayerOwnsAllColour(int colour)
 {
 	int count = 0;
+	// Count variable to check how many of the same color Squares own
 	for(int i = 0; i < colourSquares->size(); i++)
 	{
-		if (colourSquares->at(i) == colour)
+		if (colourSquares->at(i) == colour) 
 			count++;
 	}
-	
+
+	// Return true if player owns all of the <colour> Squares
 	switch (colour)
 	{
 	case 0:
@@ -96,73 +111,72 @@ bool CPlayer::PlayerOwnsAllColour(int colour)
 	}
 }
 
+// Print player current money
 void CPlayer::PrintMoney()
 {
 	cout << "<" + this->name + ">" << " has  " << static_cast<char>(156) << this->money << endl;
 }
 
+// Add mortgage property
 void CPlayer::PlayerMortgage(int squareIndex)
 {
-	mortgageProperties->push_back(squareIndex);
+	mortgageProperties->push_back(squareIndex); 
 }
 
+// Check if player has any properties
 bool CPlayer::CheckIfPlayerOwnsProperty(int index)
 {
-	return (count(playerOwns->begin(), playerOwns->end(), index));
+	return (count(playerOwns->begin(), playerOwns->end(), index)); 
 }
 
+// Check for specific own square if it is Mortgage
 bool CPlayer::CheckIfPropertyIsMortgage(int index)
 {
 	return (count(mortgageProperties->begin(), mortgageProperties->end(), playerOwns->at(index)));
 }
 
+// Check for specific any square if it is Mortgage
 bool CPlayer::CheckIfPropertyIsMortgageBySquare(int index)
 {
-	if (mortgageProperties->size() > 0) {
-		return (count(mortgageProperties->begin(), mortgageProperties->end(), index));
-	}
+	return (count(mortgageProperties->begin(), mortgageProperties->end(), index));
 }
 
+// Check if player has any mortgage properties
 bool CPlayer::PlayerHasMortgageProperty()
 {
 	return (!mortgageProperties->empty());
 }
 
+// Remove the paid mortgage property
 void CPlayer::PlayerPaysMortagePropery(int squareIndex)
 {
 	mortgageProperties->erase(remove(mortgageProperties->begin(), mortgageProperties->end(), squareIndex), mortgageProperties->end());
 }
 
+// Get Mortgage Property from vector index
 int CPlayer::GetMortgageByIndex(int index)
 {
 	return mortgageProperties->at(index);
 }
 
-int CPlayer::GetMortgageLength()
-{
-	return mortgageProperties->size();
-}
-
+// Check if player has negative amount of money
 bool CPlayer::PlayerHasNegativeMoney()
 {
 	return (this->money < 0);
 }
 
+// Get Property from vector index
 int CPlayer::GetOwnPropertyByIndex(int index)
 {
 	return playerOwns->at(index);
 }
 
-bool CPlayer::isPlaying()
-{
-	return this->state;
-}
-
+// Player went bankrupt
 void CPlayer::PlayerBankrupt()
 {
-	playerOwns->clear();
-	mortgageProperties->clear();
-	this->state = PLAYER_BANKRUPT;
+	playerOwns->clear(); // Clear player properties
+	mortgageProperties->clear(); // Clear player mortgage properties
+	this->state = PLAYER_BANKRUPT; // Set player state to bankrupt
 }
 
 

@@ -1,24 +1,22 @@
-
-#include <iostream>
-
 #include "CManager.h"
 
-
-using namespace std;
-
-int main(int argc, char* argv[])
+void StartGame()
 {
-    auto* manager = new CManager();
-
-	if(manager->SetGame())
+	auto manager = make_shared<CManager>(); // Game manager
+	
+	if (manager->SetGame()) // Check if game is loaded correctly
 	{
-		manager->StartGame();
+		manager->StartGame(); // Start game
 	}
+}
 
-	delete manager;
+int main()
+{
+	// Load and start game
+	StartGame();
 	
-	_CrtDumpMemoryLeaks();
+	_CrtDumpMemoryLeaks(); // Check for memory leaks
 
-	
+	return 0;
 }
 

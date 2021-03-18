@@ -1,5 +1,6 @@
 #include "CProperty.h"
 
+// Constructor
 CProperty::CProperty(string name, int code, int cost, int rent, int colour) : CSquare(name, code)
 {
 	this->cost = cost;
@@ -7,44 +8,76 @@ CProperty::CProperty(string name, int code, int cost, int rent, int colour) : CS
 	this->colour = colour;
 }
 
+// Destructor
+CProperty::~CProperty()
+{
+}
+
+// Player buys or pays rent
 void CProperty::PlayerReword(s_Player players, int roundPlayerIndex, int squareIndex)
 {
+	// Check if the property is owned by player
+	if(this->CheckIfPropertyIsOwned(players, squareIndex))
+	{
+		// Check if the money is above 0
+		if (players->at(roundPlayerIndex)->GetMoney() > 0)
+		{
+			this->PlayerBuysProperty(players, roundPlayerIndex, squareIndex); // Player buys property
+		}
+	}else
+	{
+		this->PlayerPaysRent(players, roundPlayerIndex, squareIndex); // Player pays rent
+	}
+}
 
-	bool check = true;
+// Check if the property is owned by player
+bool CProperty::CheckIfPropertyIsOwned(s_Player players, int squareIndex)
+{
 	for (int i = 0; i < players->size(); i++)
 	{
 		if (players->at(i)->CheckIfPlayerOwnsProperty(squareIndex))
 		{
-			check = false;
+			return true;
 		}
 	}
-	
-	if(check)
-	{
-		if (players->at(roundPlayerIndex)->GetMoney() > 0)
-		{
-			players->at(roundPlayerIndex)->SetMoney(players->at(roundPlayerIndex)->GetMoney() - this->cost);
-			players->at(roundPlayerIndex)->PlayerOwnsNewProperty(squareIndex, this->colour);
 
-			if (players->at(roundPlayerIndex)->PlayerOwnsAllColour(colour))
-			{
-				rent *= 2;
-			}
+	return false;
+}
 
-			cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " buys " << this->GetName() << " for " << static_cast<char>(156) << this->cost << endl;
-		}
-	}else
+// Player buys <this> property
+void CProperty::PlayerBuysProperty(s_Player players, int roundPlayerIndex, int squareIndex)
+{
+	// Get players money
+	players->at(roundPlayerIndex)->SetMoney(players->at(roundPlayerIndex)->GetMoney() - this->cost);
+
+	// Add player owns property index
+	players->at(roundPlayerIndex)->PlayerOwnsNewProperty(squareIndex, this->colour);
+
+	// If player owns all <colour> square. Rent is doubled
+	if (players->at(roundPlayerIndex)->PlayerOwnsAllColour(colour))
+		rent *= 2;
+
+
+	// Print player buys <property> 
+	cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " buys " << this->GetName() << " for " << static_cast<char>(156) << this->cost << endl;
+}
+
+// Player who landen in this property square pays rent
+void CProperty::PlayerPaysRent(s_Player players, int roundPlayerIndex, int squareIndex)
+{
+	for (int i = 0; i < players->size(); i++)
 	{
-		for(int i = 0; i < players->size(); i++)
+		// Check who is the owner and if the property is not mortgage
+		if (players->at(i)->PlayerOwns(squareIndex) && !players->at(i)->CheckIfPropertyIsMortgageBySquare(squareIndex))
 		{
-			if(players->at(i)->PlayerOwns(squareIndex) && !players->at(i)->CheckIfPropertyIsMortgageBySquare(squareIndex))
-			{
-				players->at(roundPlayerIndex)->SetMoney(players->at(roundPlayerIndex)->GetMoney() - this->rent);
-				
-				players->at(i)->SetMoney(players->at(i)->GetMoney() + this->rent);
-			
-				cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " pays " << static_cast<char>(156) << this->rent << endl;
-			}
+			// Player who landed in <this> property square pays the owner rent
+			players->at(roundPlayerIndex)->SetMoney(players->at(roundPlayerIndex)->GetMoney() - this->rent);
+
+			// Owner gets the rent
+			players->at(i)->SetMoney(players->at(i)->GetMoney() + this->rent);
+
+			// Print player pays rent
+			cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " pays " << static_cast<char>(156) << this->rent << " to " << players->at(i)->GetName() << endl;
 		}
 	}
 }
