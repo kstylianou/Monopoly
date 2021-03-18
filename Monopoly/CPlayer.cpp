@@ -4,17 +4,20 @@
 
 CPlayer::CPlayer(std::string name)
 {
-	colourSquares = new v_PlayerOwns;
-	playerOwns = new v_PlayerOwns;
+	colourSquares = new v_int;
+	playerOwns = new v_int;
+	mortgageProperties = new v_int;
 	this->name = name;
 	this->position = 1;
 	this->money = 1500;
+	state = PLAYER_PLAYING;
 }
 
 CPlayer::~CPlayer()
 {
 	delete playerOwns;
 	delete colourSquares;
+	delete mortgageProperties;
 }
 
 int CPlayer::roll()
@@ -97,3 +100,70 @@ void CPlayer::PrintMoney()
 {
 	cout << "<" + this->name + ">" << " has  " << static_cast<char>(156) << this->money << endl;
 }
+
+void CPlayer::PlayerMortgage(int squareIndex)
+{
+	mortgageProperties->push_back(squareIndex);
+}
+
+bool CPlayer::CheckIfPlayerOwnsProperty(int index)
+{
+	return (count(playerOwns->begin(), playerOwns->end(), index));
+}
+
+bool CPlayer::CheckIfPropertyIsMortgage(int index)
+{
+	return (count(mortgageProperties->begin(), mortgageProperties->end(), playerOwns->at(index)));
+}
+
+bool CPlayer::CheckIfPropertyIsMortgageBySquare(int index)
+{
+	if (mortgageProperties->size() > 0) {
+		return (count(mortgageProperties->begin(), mortgageProperties->end(), index));
+	}
+}
+
+bool CPlayer::PlayerHasMortgageProperty()
+{
+	return (!mortgageProperties->empty());
+}
+
+void CPlayer::PlayerPaysMortagePropery(int squareIndex)
+{
+	mortgageProperties->erase(remove(mortgageProperties->begin(), mortgageProperties->end(), squareIndex), mortgageProperties->end());
+}
+
+int CPlayer::GetMortgageByIndex(int index)
+{
+	return mortgageProperties->at(index);
+}
+
+int CPlayer::GetMortgageLength()
+{
+	return mortgageProperties->size();
+}
+
+bool CPlayer::PlayerHasNegativeMoney()
+{
+	return (this->money < 0);
+}
+
+int CPlayer::GetOwnPropertyByIndex(int index)
+{
+	return playerOwns->at(index);
+}
+
+bool CPlayer::isPlaying()
+{
+	return this->state;
+}
+
+void CPlayer::PlayerBankrupt()
+{
+	playerOwns->clear();
+	mortgageProperties->clear();
+	this->state = PLAYER_BANKRUPT;
+}
+
+
+

@@ -5,6 +5,8 @@
 #include <vector>
 
 
+
+#include "CBank.h"
 #include "CPlayer.h"
 #include "CBonus.h"
 #include "CGo.h"
@@ -48,11 +50,14 @@ protected:
 	static void WelcomeMessage();
 	void GetFirstPlayer();
 	void GetWinner();
+	void PlayerAreBankrupt();
+
 
 	v_Player* player;
 	v_Player* sortedPlayers;
 	v_Square* square;
 	v_PlayerNames player_names;
+	CBank* bank;
 	int seed;
 	int round;
 	int state;

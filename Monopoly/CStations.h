@@ -8,6 +8,7 @@ public:
 	//~CStations();
 
 	void PlayerReword(s_Player players, int roundPlayerIndex, int squareIndex) override;
+	int GetCost() override;
 
 private:
 	int cost;

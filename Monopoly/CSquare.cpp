@@ -27,6 +27,12 @@ void CSquare::PrintSquareMessage(s_Player players, int roundPlayerIndex, int squ
 	// Do nothing for this type of square
 }
 
+int CSquare::GetCost()
+{
+	// Do nothing for this type of square
+	return 0;
+}
+
 void CSquare::PrintPlayerSquareLands(string name)
 {
 	cout << "<" + name + ">" << " lands on " << this->name << endl;

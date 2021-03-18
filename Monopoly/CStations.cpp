@@ -9,14 +9,21 @@ CStations::CStations(std::string name, int code, int cost, int ticket) : CSquare
 
 void CStations::PlayerReword(s_Player players, int roundPlayerIndex, int squareIndex)
 {
-	if (!this->isOwned)
+	bool check = true;
+	for(int i = 0; i < players->size(); i++)
+	{
+		if(players->at(i)->CheckIfPlayerOwnsProperty(squareIndex))
+		{
+			check = false;
+		}
+	}
+	
+	if (check)
 	{
 		if (players->at(roundPlayerIndex)->GetMoney() > 0)
 		{
 			players->at(roundPlayerIndex)->SetMoney(players->at(roundPlayerIndex)->GetMoney() - this->cost);
 			players->at(roundPlayerIndex)->PlayerOwnsNewProperty(squareIndex, NULL);
-
-			this->isOwned = true;
 
 			cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " buys " << this->GetName() << " for " << static_cast<char>(156) << this->cost << endl;
 		}
@@ -34,5 +41,10 @@ void CStations::PlayerReword(s_Player players, int roundPlayerIndex, int squareI
 			}
 		}
 	}
+}
+
+int CStations::GetCost()
+{
+	return this->cost;
 }
 

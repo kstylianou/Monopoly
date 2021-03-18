@@ -51,6 +51,9 @@
     <ClCompile Include="CParking.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CBank.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CSquare.h">
@@ -84,6 +87,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="CParking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CBank.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -11,6 +11,7 @@ CManager::CManager()
 {
 	this->square = new v_Square;
 	this->player = new v_Player;
+	this->bank = new CBank();
 	this->state = STATE_RUNNING;
 	this->round = 0;
 
@@ -25,6 +26,7 @@ CManager::~CManager()
 {
 	delete square;
 	delete player;
+	delete bank;
 }
 
 // Load game method
@@ -40,6 +42,7 @@ void CManager::StartGame()
 	GetFirstPlayer();
 
 	cout << "\nPlayer positions" << endl;
+
 	for(int i = 0; i < player->size(); i++)
 	{
 		cout << player->at(playerSort[i])->GetName() << " plays " << i + 1 << endl;
@@ -55,11 +58,11 @@ void CManager::UpdateRound()
 {
 	while(this->state)
 	{
-		if (this->round == 20)
-			this->state = STATE_FINISH;
-
+		
 		UpdateGame();
-
+		
+		PlayerAreBankrupt();
+		
 		this->round++;
 	}
 }
@@ -70,12 +73,20 @@ void CManager::UpdateGame()
 	switch (this->state)
 	{
 	case STATE_RUNNING:
+		srand(seed);
 		for(int i = 0; i < PLAYERS_NUM; i++)
 		{
-			cout << endl;
-			int playerRolls = player->at(playerSort[i])->roll();
-			int playerPosition = player->at(playerSort[i])->MovePlayerPosition(playerRolls);
-			square->at(playerPosition)->PlayerLands(player, playerSort[i], playerPosition);
+			if (player->at(playerSort[i])->isPlaying()) {
+				cout << endl;
+				int playerRolls = player->at(playerSort[i])->roll();
+				int playerPosition = player->at(playerSort[i])->MovePlayerPosition(playerRolls);
+				
+				bank->CheckPlayer(player->at(playerSort[i]), square);
+				square->at(playerPosition)->PlayerLands(player, playerSort[i], playerPosition);
+				bank->PayMortgageProperty(player->at(playerSort[i]), square);
+				
+
+			}
 		}
 		break;
 		
@@ -237,6 +248,22 @@ void CManager::GetWinner()
 	}
 
 	cout << "<" + player->at(index)->GetName() + ">" << " wins." << endl;
+}
+
+void CManager::PlayerAreBankrupt()
+{
+	int count = 0;
+	for(int i = 0; i < PLAYERS_NUM; i++)
+	{
+		if(!player->at(i)->isPlaying())
+		{
+			count++;
+		}
+	}
+	if (count > 2)
+	{
+		state = STATE_FINISH;
+	}
 }
 
 

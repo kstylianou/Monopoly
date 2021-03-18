@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CBank.cpp" />
     <ClCompile Include="CBonus.cpp" />
     <ClCompile Include="CGo.cpp" />
     <ClCompile Include="CGoToJail.cpp" />
@@ -153,6 +154,7 @@
     <ClCompile Include="Monopoly.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CBank.h" />
     <ClInclude Include="CBonus.h" />
     <ClInclude Include="CGo.h" />
     <ClInclude Include="CGoToJail.h" />
