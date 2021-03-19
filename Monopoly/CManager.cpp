@@ -81,11 +81,13 @@ void CManager::UpdateGame()
 				int playerRolls = player->at(playerSort[i])->roll();
 				int playerPosition = player->at(playerSort[i])->MovePlayerPosition(playerRolls);
 				
-				bank->CheckPlayer(player->at(playerSort[i]), square);
-				square->at(playerPosition)->PlayerLands(player, playerSort[i], playerPosition);
-				bank->PayMortgageProperty(player->at(playerSort[i]), square);
 				
+				bank->CheckPlayer(player->at(playerSort[i]), square);
+				bank->PayMortgageProperty(player->at(playerSort[i]), square);
 
+				if (player->at(playerSort[i])->isPlaying()) {
+					square->at(playerPosition)->PlayerLands(player, playerSort[i], playerPosition);
+				}
 			}
 		}
 		break;
@@ -93,7 +95,7 @@ void CManager::UpdateGame()
 	case STATE_FINISH:
 		cout << "\nGame Over" << endl;
 		GetWinner();
-		cout << round << endl;
+		
 		break;
 	}
 }
@@ -235,6 +237,7 @@ void CManager::GetFirstPlayer()
 // Get the winner with the highest money
 void CManager::GetWinner()
 {
+	cout << endl;
 	int max = player->at(0)->GetMoney();
 	int index = 0;
 	for (int i = 0; i < PLAYERS_NUM; i++)
@@ -248,7 +251,9 @@ void CManager::GetWinner()
 
 	}
 
-	cout << "<" + player->at(index)->GetName() + ">" << " wins." << endl;
+	cout << "\n<" + player->at(index)->GetName() + ">" << " wins." << endl;
+
+	cout << "\nTotal rounds: " << round << endl;
 	
 }
 

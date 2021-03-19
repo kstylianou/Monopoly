@@ -28,7 +28,7 @@ void CSquare::PlayerLands(s_Player players, int roundPlayerIndex, int squareInde
 	players->at(roundPlayerIndex)->PrintMoney();
 }
 
-// Reword player buys or pays
+// Reword player buys, pays, get bonus and penalty
 void CSquare::PlayerReword(s_Player players, int roundPlayerIndex, int squareIndex)
 {
 	// Do nothing for this type of square

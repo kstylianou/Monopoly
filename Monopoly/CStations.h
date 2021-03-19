@@ -4,15 +4,26 @@
 class CStations : public CSquare
 {
 public:
+	// Constructor
 	CStations(std::string name, int code, int cost, int ticket);
-	//~CStations();
 
+	// Destructor
+	~CStations();
+
+	// Player buys or pays rent
 	void PlayerReword(s_Player players, int roundPlayerIndex, int squareIndex) override;
+
+	// Get cost
 	int GetCost() override;
 
 private:
-	int cost;
-	int ticket;
-	bool isOwned;
+	// Private member functions
+	static bool CheckIfPropertyIsOwned(const s_Player& players, int squareIndex);
+	void PlayerBuysProperty(s_Player players, int roundPlayerIndex, int squareIndex);
+	void PlayerPaysRent(const s_Player& players, int roundPlayerIndex, int squareIndex) const;
+	
+	// Private variables
+	int cost; // Station cost
+	int ticket; // Station ticket
 };
 

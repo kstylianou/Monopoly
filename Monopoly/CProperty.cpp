@@ -37,11 +37,11 @@ bool CProperty::CheckIfPropertyIsOwned(s_Player players, int squareIndex)
 	{
 		if (players->at(i)->CheckIfPlayerOwnsProperty(squareIndex))
 		{
-			return true;
+			return false;
 		}
 	}
 
-	return false;
+	return true;
 }
 
 // Player buys <this> property
@@ -62,7 +62,7 @@ void CProperty::PlayerBuysProperty(s_Player players, int roundPlayerIndex, int s
 	cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " buys " << this->GetName() << " for " << static_cast<char>(156) << this->cost << endl;
 }
 
-// Player who landen in this property square pays rent
+// Player who landed in this property square pays rent
 void CProperty::PlayerPaysRent(s_Player players, int roundPlayerIndex, int squareIndex)
 {
 	for (int i = 0; i < players->size(); i++)
