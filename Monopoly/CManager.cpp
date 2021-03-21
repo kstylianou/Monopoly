@@ -14,6 +14,7 @@ CManager::CManager()
 	this->bank = make_unique<CBank>();
 	this->state = STATE_RUNNING;
 	this->round = 0;
+	this->playersBankrupt = 0;
 
 	this->player_names.push_back(std::make_shared<std::string>("Dog"));
 	this->player_names.push_back(std::make_shared<std::string>("Car"));
@@ -37,15 +38,7 @@ bool CManager::SetGame()
 void CManager::StartGame()
 {
 	WelcomeMessage(); // Welcome message in console
-	GetFirstPlayer();
-
-	cout << "\nPlayer positions" << endl;
-
-	for(int i = 0; i < player->size(); i++)
-	{
-		cout << player->at(playerSort[i])->GetName() << " plays " << i + 1 << endl;
-		
-	}
+	
 
 	UpdateRound();
 	
@@ -54,13 +47,15 @@ void CManager::StartGame()
 // Update players round
 void CManager::UpdateRound()
 {
+	
 	while(this->state)
 	{
 
 		PlayerAreBankrupt();
+
 		
 		UpdateGame();
-		
+		srand(this->seed);
 		
 		
 		this->round++;
@@ -70,25 +65,25 @@ void CManager::UpdateRound()
 // Update game for each player
 void CManager::UpdateGame()
 {
+	
 	switch (this->state)
 	{
 	case STATE_RUNNING:
-		srand(seed);
-		for(int i = 0; i < PLAYERS_NUM; i++)
+		for(int i = 0; i < player->size(); i++)
 		{
-			if (player->at(playerSort[i])->isPlaying()) {
-				cout << endl;
-				int playerRolls = player->at(playerSort[i])->roll();
-				int playerPosition = player->at(playerSort[i])->MovePlayerPosition(playerRolls);
-				
-				
-				bank->CheckPlayer(player->at(playerSort[i]), square);
-				bank->PayMortgageProperty(player->at(playerSort[i]), square);
-
-				if (player->at(playerSort[i])->isPlaying()) {
-					square->at(playerPosition)->PlayerLands(player, playerSort[i], playerPosition);
-				}
-			}
+			cout << endl;
+		
+			int playerRolls = player->at(i)->roll();
+			int playerPosition = player->at(i)->MovePlayerPosition(playerRolls);
+			bank->CheckPlayer(player->at(i), square);
+			bank->PayMortgageProperty(player->at(i), square);
+			
+			if (!player->at(i)->isPlaying()) {
+				player->erase(remove(player->begin(), player->end(), player->at(i)), player->end());
+				this->playersBankrupt++;
+				break;
+			}	
+			square->at(playerPosition)->PlayerLands(player, i, playerPosition);
 		}
 		break;
 		
@@ -202,74 +197,20 @@ void CManager::WelcomeMessage()
 	cout << "Welcome to Monopol-ish" << endl;
 }
 
-// Before game start all players roll dice to find whose playing first
-void CManager::GetFirstPlayer()
-{
-	cout << "\nPlayer roll to get position" << endl;
-	srand(seed);
-	int nums[PLAYERS_NUM];
-	for (int i = 0; i < PLAYERS_NUM; i++)
-	{
-		nums[i] = player->at(i)->roll();
-		this->playerSort[i] = i;
-	}
-
-
-	for (int i = 0; i < PLAYERS_NUM - 1; i++)
-	{
-		for (int j = i + 1; j < PLAYERS_NUM; j++)
-		{
-			if (nums[i] < nums[j])
-			{
-				int tmp = this->playerSort[i];
-				this->playerSort[i] = this->playerSort[j];
-				this->playerSort[j] = tmp;
-
-				int tmp1 = nums[i];
-				nums[i] = nums[j];
-				nums[j] = tmp1;
-			}
-		}
-	}
-
-}
-
 // Get the winner with the highest money
 void CManager::GetWinner()
 {
+	cout << "<" + player->at(0)->GetName() + ">" << " wins." << endl;
 	cout << endl;
-	int max = player->at(0)->GetMoney();
-	int index = 0;
-	for (int i = 0; i < PLAYERS_NUM; i++)
-	{
-		cout << "<" + player->at(playerSort[i])->GetName() + ">" << " has " << player->at(playerSort[i])->GetMoney() << endl;
-		if (max < player->at(i)->GetMoney())
-		{
-			max = player->at(i)->GetMoney();
-			index = i;
-		}
-
-	}
-
-	cout << "\n<" + player->at(index)->GetName() + ">" << " wins." << endl;
-
-	cout << "\nTotal rounds: " << round << endl;
+	cout << "Total rounds: " << round << endl;
 	
 }
 
 void CManager::PlayerAreBankrupt()
 {
-	int count = 0;
-	for(int i = 0; i < PLAYERS_NUM; i++)
+	if (this->playersBankrupt > 2)
 	{
-		if(!player->at(i)->isPlaying())
-		{
-			count++;
-		}
-	}
-	if (count > 2)
-	{
-		state = STATE_FINISH;
+		this->state = STATE_FINISH;
 	}
 }
 

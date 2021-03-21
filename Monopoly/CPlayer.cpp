@@ -8,6 +8,7 @@ CPlayer::CPlayer(std::string name)
 	colourSquares = make_unique<v_newInt>();
 	playerOwns = make_unique<v_newInt>();
 	mortgageProperties = make_unique<v_newInt>();
+	playerStationOwns = make_unique<v_newInt>();
 	
 	this->name = name;
 	this->position = 1;
@@ -117,65 +118,12 @@ void CPlayer::PrintMoney()
 	cout << "<" + this->name + ">" << " has  " << static_cast<char>(156) << this->money << endl;
 }
 
-// Add mortgage property
-void CPlayer::PlayerMortgage(int squareIndex)
-{
-	mortgageProperties->push_back(squareIndex); 
-}
-
-// Check if player has any properties
-bool CPlayer::CheckIfPlayerOwnsProperty(int index)
-{
-	return (count(playerOwns->begin(), playerOwns->end(), index)); 
-}
-
-// Check for specific own square if it is Mortgage
-bool CPlayer::CheckIfPropertyIsMortgage(int index)
-{
-	return (count(mortgageProperties->begin(), mortgageProperties->end(), playerOwns->at(index)));
-}
-
-// Check for specific any square if it is Mortgage
-bool CPlayer::CheckIfPropertyIsMortgageBySquare(int index)
-{
-	return (count(mortgageProperties->begin(), mortgageProperties->end(), index));
-}
-
-// Check if player has any mortgage properties
-bool CPlayer::PlayerHasMortgageProperty()
-{
-	return (!mortgageProperties->empty());
-}
-
-// Remove the paid mortgage property
-void CPlayer::PlayerPaysMortagePropery(int squareIndex)
-{
-	mortgageProperties->erase(remove(mortgageProperties->begin(), mortgageProperties->end(), squareIndex), mortgageProperties->end());
-}
-
-// Get Mortgage Property from vector index
-int CPlayer::GetMortgageByIndex(int index)
-{
-	return mortgageProperties->at(index);
-}
-
-// Check if player has negative amount of money
-bool CPlayer::PlayerHasNegativeMoney()
-{
-	return (this->money < 0);
-}
-
-// Get Property from vector index
-int CPlayer::GetOwnPropertyByIndex(int index)
-{
-	return playerOwns->at(index);
-}
-
 // Player went bankrupt
 void CPlayer::PlayerBankrupt()
 {
 	playerOwns->clear(); // Clear player properties
 	mortgageProperties->clear(); // Clear player mortgage properties
+	playerStationOwns->clear(); // Clear player stations
 	this->state = PLAYER_BANKRUPT; // Set player state to bankrupt
 }
 

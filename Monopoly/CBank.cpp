@@ -40,7 +40,7 @@ void CBank::CheckPlayer(shared_ptr<CPlayer> player, v_Square squares)
 			// Player is bankrupt
 			player->PlayerBankrupt();
 
-			cout << "<" + player->GetName() + ">" << " went bankrupt" << endl;
+			cout << "\n<" + player->GetName() + ">" << " went bankrupt" << endl;
 		}
 	}
 
@@ -51,7 +51,7 @@ void CBank::CheckPlayer(shared_ptr<CPlayer> player, v_Square squares)
 void CBank::MortgagePlayerProperty(shared_ptr<CPlayer> player, v_Square squares, int squareIndex)
 {
 	// Add to the player the mortgage property index
-	player->PlayerMortgage(squareIndex);
+	player->SetPlayerMortgage(squareIndex);
 
 	// Print that bank mortgage property
 	cout << "<" + player->GetName() + ">" << " mortgage " << squares->at(squareIndex)->GetName() << " for " << static_pointer_cast<CProperty>(squares->at(squareIndex))->GetCost() << endl;
@@ -79,7 +79,7 @@ void CBank::PayMortgageProperty(shared_ptr<CPlayer> player, v_Square squares)
 				cout << "<" + player->GetName() + ">" << " repay mortgaged " << squares->at(player->GetMortgageByIndex(i))->GetName() << " for " << squares->at(player->GetMortgageByIndex(i))->GetCost() << endl;
 
 				// Remove the mortgaged property
-				player->PlayerPaysMortagePropery(player->GetMortgageByIndex(i));
+				player->PlayerPaysMortgageProperty(player->GetMortgageByIndex(i));
 
 			}
 		}

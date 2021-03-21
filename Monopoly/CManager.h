@@ -68,6 +68,6 @@ protected:
 	int seed;
 	int round;
 	int state;
-	int playerSort[PLAYERS_NUM];
+	int playersBankrupt;
 };
 

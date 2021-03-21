@@ -41,7 +41,7 @@ auto CStations::CheckIfPropertyIsOwned(const s_Player& players, int squareIndex)
 {
 	for (auto& i : *players) 
 	{
-		if (i->CheckIfPlayerOwnsProperty(squareIndex))
+		if (i->GetPlayerOwnsStation(squareIndex))
 		{
 			return false;
 		}
@@ -57,7 +57,7 @@ void CStations::PlayerBuysProperty(s_Player players, int roundPlayerIndex, int s
 	players->at(roundPlayerIndex)->SetMoney(players->at(roundPlayerIndex)->GetMoney() - this->cost);
 
 	// Add player owns property index
-	players->at(roundPlayerIndex)->PlayerOwnsNewProperty(squareIndex, NULL);
+	players->at(roundPlayerIndex)->PlayerOwnsStation(squareIndex);
 
 	// Print player buys <station> 
 	cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " buys " << this->GetName() << " for " << static_cast<char>(156) << this->cost << endl;
