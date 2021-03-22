@@ -39,7 +39,6 @@ void CManager::StartGame()
 {
 	WelcomeMessage(); // Welcome message in console
 	
-
 	UpdateRound();
 	
 }

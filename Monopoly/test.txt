@@ -1,0 +1,9722 @@
+Welcome to Monopol-ish
+
+<Dog> rolls 1
+<Dog> lands on Red Road
+<Dog> buys Red Road for œ60
+<Dog> has  œ1440
+
+<Car> rolls 4
+<Car> lands on Grey Road
+<Car> buys Grey Road for œ100
+<Car> has  œ1400
+
+<Shoe> rolls 2
+<Shoe> lands on Red Street
+<Shoe> buys Red Street for œ80
+<Shoe> has  œ1420
+
+<Hat> rolls 5
+<Hat> lands on Grey Street
+<Hat> buys Grey Street for œ120
+<Hat> has  œ1380
+
+<Dog> rolls 1
+<Dog> lands on Red Street
+<Dog> pays œ10 to Shoe
+<Dog> has  œ1430
+
+<Car> rolls 6
+<Car> lands on Orange Road
+<Car> buys Orange Road for œ180
+<Car> has  œ1220
+
+<Shoe> rolls 3
+<Shoe> lands on Grey Street
+<Shoe> pays œ15 to Hat
+<Shoe> has  œ1415
+
+<Hat> rolls 5
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Car
+<Hat> has  œ1370
+
+<Dog> rolls 1
+<Dog> lands on Bonus
+<Dog> rolls 6
+<Dog> It's your birthday. Gain œ300
+<Dog> has  œ1730
+
+<Car> rolls 3
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ1245
+
+<Shoe> rolls 5
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ1390
+
+<Hat> rolls 6
+<Hat> lands on Penalty
+<Hat> rolls 6
+<Hat> Pay some university fees. Lose œ300
+<Hat> has  œ1070
+
+<Dog> rolls 1
+<Dog> lands on Grey Road
+<Dog> pays œ15 to Car
+<Dog> has  œ1715
+
+<Car> rolls 6
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ1235
+
+<Shoe> rolls 3
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ1390
+
+<Hat> rolls 5
+<Hat> lands on Blue Street
+<Hat> buys Blue Street for œ300
+<Hat> has  œ770
+
+<Dog> rolls 1
+<Dog> lands on Grey Street
+<Dog> pays œ15 to Hat
+<Dog> has  œ1700
+
+<Car> rolls 6
+<Car> lands on Orange Way
+<Car> buys Orange Way for œ200
+<Car> has  œ1035
+
+<Shoe> rolls 3
+<Shoe> lands on Penalty
+<Shoe> rolls 5
+<Shoe> Go for a romantic meal. Lose œ200
+<Shoe> has  œ1190
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Dog
+<Hat> has  œ980
+
+<Dog> rolls 1
+<Dog> lands on Jail
+<Dog> is just visiting
+<Dog> has  œ1705
+
+<Car> rolls 6
+<Car> lands on Green Street
+<Car> buys Green Street for œ280
+<Car> has  œ755
+
+<Shoe> rolls 3
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ1140
+
+<Hat> rolls 5
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ980
+
+<Dog> rolls 1
+<Dog> lands on Brown Road
+<Dog> buys Brown Road for œ140
+<Dog> has  œ1565
+
+<Car> rolls 6
+<Car> lands on Purple Road
+<Car> buys Purple Road for œ400
+<Car> has  œ355
+
+<Shoe> rolls 3
+<Shoe> lands on Railway Station
+<Shoe> buys Railway Station for œ200
+<Shoe> has  œ940
+
+<Hat> rolls 5
+<Hat> lands on Orange Street
+<Hat> buys Orange Street for œ180
+<Hat> has  œ800
+
+<Dog> rolls 1
+<Dog> lands on Brown Street
+<Dog> buys Brown Street for œ160
+<Dog> has  œ1405
+
+<Car> rolls 6
+<Car> passes GO and collects œ200
+<Car> lands on Grey Road
+<Car> pays œ15 to Car
+<Car> has  œ555
+
+<Shoe> rolls 3
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ915
+
+<Hat> rolls 5
+<Hat> lands on Penalty
+<Hat> rolls 6
+<Hat> Pay some university fees. Lose œ300
+<Hat> has  œ500
+
+<Dog> rolls 1
+<Dog> lands on Railway Station
+<Dog> has  œ1405
+
+<Car> rolls 6
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ580
+
+<Shoe> rolls 3
+<Shoe> lands on Yellow Street
+<Shoe> buys Yellow Street for œ240
+<Shoe> has  œ675
+
+<Hat> rolls 5
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ500
+
+<Dog> rolls 1
+<Dog> lands on Orange Road
+<Dog> pays œ25 to Car
+<Dog> has  œ1380
+
+<Car> rolls 6
+<Car> lands on Penalty
+<Car> rolls 3
+<Car> Visit the SU shop for food. Lose œ100
+<Car> has  œ505
+
+<Shoe> rolls 5
+<Shoe> lands on Blue Road
+<Shoe> buys Blue Road for œ300
+<Shoe> has  œ375
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Dog
+<Hat> has  œ695
+
+<Dog> rolls 1
+<Dog> lands on Orange Street
+<Dog> pays œ25 to Hat
+<Dog> has  œ1360
+
+<Car> rolls 6
+<Car> lands on Blue Way
+<Car> buys Blue Way for œ320
+<Car> has  œ185
+
+<Shoe> rolls 3
+<Shoe> lands on Bus Station
+<Shoe> buys Bus Station for œ200
+<Shoe> has  œ175
+
+<Hat> rolls 5
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ720
+
+<Dog> rolls 1
+<Dog> lands on Orange Way
+<Dog> pays œ25 to Car
+<Dog> has  œ1335
+
+<Car> rolls 6
+<Car> passes GO and collects œ200
+<Car> lands on Red Street
+<Car> pays œ10 to Shoe
+<Car> has  œ400
+
+<Shoe> rolls 3
+<Shoe> passes GO and collects œ200
+<Shoe> lands on GO
+<Shoe> has  œ385
+
+<Hat> rolls 5
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ720
+
+<Dog> rolls 1
+<Dog> lands on Free Parking
+<Dog> is resting
+<Dog> has  œ1335
+
+<Car> rolls 6
+<Car> lands on Brown Street
+<Car> pays œ40 to Dog
+<Car> has  œ360
+
+<Shoe> rolls 3
+<Shoe> lands on Bonus
+<Shoe> rolls 5
+<Shoe> Received a bequest. Gain œ200
+<Shoe> has  œ585
+
+<Hat> rolls 6
+<Hat> lands on Green Road
+<Hat> buys Green Road for œ260
+<Hat> has  œ460
+
+<Dog> rolls 1
+<Dog> lands on Yellow Road
+<Dog> buys Yellow Road for œ220
+<Dog> has  œ1155
+
+<Car> rolls 6
+<Car> lands on Yellow Road
+<Car> pays œ30 to Dog
+<Car> has  œ330
+
+<Shoe> rolls 3
+<Shoe> lands on Jail
+<Shoe> is just visiting
+<Shoe> has  œ585
+
+<Hat> rolls 5
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Car
+<Hat> has  œ415
+
+<Dog> rolls 1
+<Dog> lands on Yellow Street
+<Dog> pays œ30 to Shoe
+<Dog> has  œ1155
+
+<Car> rolls 6
+<Car> lands on Blue Road
+<Car> pays œ45 to Shoe
+<Car> has  œ330
+
+<Shoe> rolls 3
+<Shoe> lands on Railway Station
+<Shoe> has  œ660
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Dog
+<Hat> has  œ610
+
+<Dog> rolls 1
+<Dog> lands on Penalty
+<Dog> rolls 6
+<Dog> Pay some university fees. Lose œ300
+<Dog> has  œ860
+
+<Car> rolls 3
+<Car> lands on Bus Station
+<Car> has  œ330
+
+<Shoe> rolls 5
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Dog
+<Shoe> has  œ630
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Dog
+<Hat> has  œ570
+
+<Dog> rolls 1
+<Dog> lands on Green Road
+<Dog> pays œ35 to Hat
+<Dog> has  œ895
+
+<Car> rolls 6
+<Car> passes GO and collects œ200
+<Car> lands on Bonus
+<Car> rolls 3
+<Car> Received a rent rebate. Gain œ100
+<Car> has  œ630
+
+<Shoe> rolls 5
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ580
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ605
+
+<Dog> rolls 1
+<Dog> lands on Green Street
+<Dog> pays œ35 to Car
+<Dog> has  œ860
+
+<Car> rolls 6
+<Car> lands on Railway Station
+<Car> has  œ665
+
+<Shoe> rolls 3
+<Shoe> lands on Railway Station
+<Shoe> has  œ580
+
+<Hat> rolls 5
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ570
+
+<Dog> rolls 1
+<Dog> lands on Go to Jail
+<Dog> goes to Jail
+<Dog> pays œ50
+<Dog> has  œ810
+
+<Car> rolls 6
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ670
+
+<Shoe> rolls 3
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ585
+
+<Hat> rolls 5
+<Hat> lands on Bus Station
+<Hat> has  œ570
+
+<Dog> rolls 1
+<Dog> lands on Brown Road
+<Dog> pays œ40 to Dog
+<Dog> has  œ810
+
+<Car> rolls 6
+<Car> lands on Blue Street
+<Car> pays œ45 to Hat
+<Car> has  œ650
+
+<Shoe> rolls 3
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ585
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ805
+
+<Dog> rolls 1
+<Dog> lands on Brown Street
+<Dog> pays œ40 to Dog
+<Dog> has  œ810
+
+<Car> rolls 6
+<Car> passes GO and collects œ200
+<Car> lands on Red Road
+<Car> pays œ5 to Dog
+<Car> has  œ845
+
+<Shoe> rolls 3
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ560
+
+<Hat> rolls 5
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Dog
+<Hat> has  œ765
+
+<Dog> rolls 1
+<Dog> lands on Railway Station
+<Dog> has  œ855
+
+<Car> rolls 6
+<Car> lands on Brown Road
+<Car> pays œ40 to Dog
+<Car> has  œ840
+
+<Shoe> rolls 3
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ515
+
+<Hat> rolls 5
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ785
+
+<Dog> rolls 1
+<Dog> lands on Orange Road
+<Dog> pays œ25 to Car
+<Dog> has  œ870
+
+<Car> rolls 6
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ890
+
+<Shoe> rolls 3
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ465
+
+<Hat> rolls 5
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ785
+
+<Dog> rolls 1
+<Dog> lands on Orange Street
+<Dog> pays œ25 to Hat
+<Dog> has  œ845
+
+<Car> rolls 6
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ890
+
+<Shoe> rolls 3
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Dog
+<Shoe> has  œ660
+
+<Hat> rolls 5
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Car
+<Hat> has  œ765
+
+<Dog> rolls 1
+<Dog> lands on Orange Way
+<Dog> pays œ25 to Car
+<Dog> has  œ825
+
+<Car> rolls 6
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ960
+
+<Shoe> rolls 3
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ645
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Dog
+<Hat> has  œ960
+
+<Dog> rolls 1
+<Dog> lands on Free Parking
+<Dog> is resting
+<Dog> has  œ830
+
+<Car> rolls 6
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ975
+
+<Shoe> rolls 3
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Dog
+<Shoe> has  œ605
+
+<Hat> rolls 5
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ960
+
+<Dog> rolls 1
+<Dog> lands on Yellow Road
+<Dog> pays œ30 to Dog
+<Dog> has  œ870
+
+<Car> rolls 6
+<Car> lands on Purple Road
+<Car> pays œ50 to Car
+<Car> has  œ975
+
+<Shoe> rolls 3
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ580
+
+<Hat> rolls 5
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ960
+
+<Dog> rolls 1
+<Dog> lands on Yellow Street
+<Dog> pays œ30 to Shoe
+<Dog> has  œ840
+
+<Car> rolls 6
+<Car> passes GO and collects œ200
+<Car> lands on Grey Road
+<Car> pays œ15 to Car
+<Car> has  œ1200
+
+<Shoe> rolls 3
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ610
+
+<Hat> rolls 5
+<Hat> lands on Penalty
+<Hat> rolls 6
+<Hat> Pay some university fees. Lose œ300
+<Hat> has  œ660
+
+<Dog> rolls 1
+<Dog> lands on Penalty
+<Dog> rolls 6
+<Dog> Pay some university fees. Lose œ300
+<Dog> has  œ540
+
+<Car> rolls 3
+<Car> lands on Brown Road
+<Car> pays œ40 to Dog
+<Car> has  œ1160
+
+<Shoe> rolls 5
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ575
+
+<Hat> rolls 6
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Car
+<Hat> has  œ615
+
+<Dog> rolls 1
+<Dog> lands on Green Road
+<Dog> pays œ35 to Hat
+<Dog> has  œ545
+
+<Car> rolls 6
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ1240
+
+<Shoe> rolls 3
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ530
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Dog
+<Hat> has  œ890
+
+<Dog> rolls 1
+<Dog> lands on Green Street
+<Dog> pays œ35 to Car
+<Dog> has  œ515
+
+<Car> rolls 6
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ1225
+
+<Shoe> rolls 3
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ480
+
+<Hat> rolls 5
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ890
+
+<Dog> rolls 1
+<Dog> lands on Go to Jail
+<Dog> goes to Jail
+<Dog> pays œ50
+<Dog> has  œ465
+
+<Car> rolls 6
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ1275
+
+<Shoe> rolls 3
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Dog
+<Shoe> has  œ675
+
+<Hat> rolls 5
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ890
+
+<Dog> rolls 1
+<Dog> lands on Brown Road
+<Dog> pays œ40 to Dog
+<Dog> has  œ470
+
+<Car> rolls 6
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ1275
+
+<Shoe> rolls 3
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ660
+
+<Hat> rolls 5
+<Hat> lands on Penalty
+<Hat> rolls 6
+<Hat> Pay some university fees. Lose œ300
+<Hat> has  œ590
+
+<Dog> rolls 1
+<Dog> lands on Brown Street
+<Dog> pays œ40 to Dog
+<Dog> has  œ470
+
+<Car> rolls 6
+<Car> lands on Purple Road
+<Car> pays œ50 to Car
+<Car> has  œ1290
+
+<Shoe> rolls 3
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Dog
+<Shoe> has  œ620
+
+<Hat> rolls 5
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ590
+
+<Dog> rolls 1
+<Dog> lands on Railway Station
+<Dog> has  œ510
+
+<Car> rolls 6
+<Car> passes GO and collects œ200
+<Car> lands on Grey Road
+<Car> pays œ15 to Car
+<Car> has  œ1490
+
+<Shoe> rolls 3
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ595
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ790
+
+<Dog> rolls 1
+<Dog> lands on Orange Road
+<Dog> pays œ25 to Car
+<Dog> has  œ485
+
+<Car> rolls 6
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ1540
+
+<Shoe> rolls 3
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ595
+
+<Hat> rolls 5
+<Hat> lands on Grey Street
+<Hat> pays œ15 to Hat
+<Hat> has  œ790
+
+<Dog> rolls 1
+<Dog> lands on Orange Street
+<Dog> pays œ25 to Hat
+<Dog> has  œ460
+
+<Car> rolls 6
+<Car> lands on Penalty
+<Car> rolls 3
+<Car> Visit the SU shop for food. Lose œ100
+<Car> has  œ1440
+
+<Shoe> rolls 5
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ560
+
+<Hat> rolls 6
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ815
+
+<Dog> rolls 1
+<Dog> lands on Orange Way
+<Dog> pays œ25 to Car
+<Dog> has  œ435
+
+<Car> rolls 6
+<Car> lands on Blue Way
+<Car> pays œ45 to Car
+<Car> has  œ1500
+
+<Shoe> rolls 3
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ515
+
+<Hat> rolls 5
+<Hat> lands on Penalty
+<Hat> rolls 6
+<Hat> Pay some university fees. Lose œ300
+<Hat> has  œ560
+
+<Dog> rolls 1
+<Dog> lands on Free Parking
+<Dog> is resting
+<Dog> has  œ435
+
+<Car> rolls 6
+<Car> passes GO and collects œ200
+<Car> lands on Red Street
+<Car> pays œ10 to Shoe
+<Car> has  œ1690
+
+<Shoe> rolls 3
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ475
+
+<Hat> rolls 5
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ560
+
+<Dog> rolls 1
+<Dog> lands on Yellow Road
+<Dog> pays œ30 to Dog
+<Dog> has  œ435
+
+<Car> rolls 6
+<Car> lands on Brown Street
+<Car> pays œ40 to Dog
+<Car> has  œ1700
+
+<Shoe> rolls 3
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Dog
+<Shoe> has  œ670
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ760
+
+<Dog> rolls 1
+<Dog> lands on Yellow Street
+<Dog> pays œ30 to Shoe
+<Dog> has  œ450
+
+<Car> rolls 6
+<Car> lands on Yellow Road
+<Car> pays œ30 to Dog
+<Car> has  œ1670
+
+<Shoe> rolls 3
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ685
+
+<Hat> rolls 5
+<Hat> lands on Grey Street
+<Hat> pays œ15 to Hat
+<Hat> has  œ760
+
+<Dog> rolls 1
+<Dog> lands on Penalty
+<Dog> rolls 6
+<Dog> Pay some university fees. Lose œ300
+<Dog> has  œ180
+
+<Car> rolls 3
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ1650
+
+<Shoe> rolls 5
+<Shoe> lands on Railway Station
+<Shoe> has  œ685
+
+<Hat> rolls 6
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ795
+
+<Dog> rolls 1
+<Dog> lands on Green Road
+<Dog> pays œ35 to Hat
+<Dog> has  œ145
+
+<Car> rolls 6
+<Car> lands on Bus Station
+<Car> has  œ1650
+
+<Shoe> rolls 3
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ660
+
+<Hat> rolls 5
+<Hat> lands on Penalty
+<Hat> rolls 6
+<Hat> Pay some university fees. Lose œ300
+<Hat> has  œ530
+
+<Dog> rolls 1
+<Dog> lands on Green Street
+<Dog> pays œ35 to Car
+<Dog> has  œ110
+
+<Car> rolls 6
+<Car> passes GO and collects œ200
+<Car> lands on Bonus
+<Car> rolls 3
+<Car> Received a rent rebate. Gain œ100
+<Car> has  œ2010
+
+<Shoe> rolls 5
+<Shoe> lands on Green Road
+<Shoe> pays œ35 to Hat
+<Shoe> has  œ625
+
+<Hat> rolls 6
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Car
+<Hat> has  œ520
+
+<Dog> rolls 1
+<Dog> lands on Go to Jail
+<Dog> goes to Jail
+<Dog> pays œ50
+<Dog> has  œ60
+
+<Car> rolls 6
+<Car> lands on Railway Station
+<Car> has  œ2055
+
+<Shoe> rolls 3
+<Shoe> lands on Blue Road
+<Shoe> pays œ45 to Shoe
+<Shoe> has  œ625
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Dog
+<Hat> has  œ715
+
+<Dog> rolls 1
+<Dog> lands on Brown Road
+<Dog> pays œ40 to Dog
+<Dog> has  œ65
+
+<Car> rolls 6
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ2025
+
+<Shoe> rolls 3
+<Shoe> lands on Bus Station
+<Shoe> has  œ655
+
+<Hat> rolls 5
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ715
+
+<Dog> rolls 1
+<Dog> lands on Brown Street
+<Dog> pays œ40 to Dog
+<Dog> has  œ65
+
+<Car> rolls 6
+<Car> lands on Blue Street
+<Car> pays œ45 to Hat
+<Car> has  œ1980
+
+<Shoe> rolls 3
+<Shoe> passes GO and collects œ200
+<Shoe> lands on GO
+<Shoe> has  œ855
+
+<Hat> rolls 5
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ760
+
+<Dog> rolls 1
+<Dog> lands on Railway Station
+<Dog> has  œ65
+
+<Car> rolls 6
+<Car> passes GO and collects œ200
+<Car> lands on Red Road
+<Car> pays œ5 to Dog
+<Car> has  œ2175
+
+<Shoe> rolls 3
+<Shoe> lands on Bonus
+<Shoe> rolls 5
+<Shoe> Received a bequest. Gain œ200
+<Shoe> has  œ1055
+
+<Hat> rolls 6
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ760
+
+<Dog> rolls 1
+<Dog> lands on Orange Road
+<Dog> pays œ25 to Car
+<Dog> has  œ45
+
+<Car> rolls 6
+<Car> lands on Brown Road
+<Car> pays œ40 to Dog
+<Car> has  œ2160
+
+<Shoe> rolls 3
+<Shoe> lands on Jail
+<Shoe> is just visiting
+<Shoe> has  œ1055
+
+<Hat> rolls 5
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Car
+<Hat> has  œ715
+
+<Dog> rolls 1
+<Dog> lands on Orange Street
+<Dog> pays œ25 to Hat
+<Dog> has  œ60
+
+<Car> rolls 6
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ2205
+
+<Shoe> rolls 3
+<Shoe> lands on Railway Station
+<Shoe> has  œ1055
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Dog
+<Hat> has  œ935
+
+<Dog> rolls 1
+<Dog> lands on Orange Way
+<Dog> pays œ25 to Car
+<Dog> has  œ40
+
+<Car> rolls 6
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ2180
+
+<Shoe> rolls 3
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ1030
+
+<Hat> rolls 5
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ935
+
+<Dog> rolls 1
+<Dog> lands on Free Parking
+<Dog> is resting
+<Dog> has  œ40
+
+<Car> rolls 6
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ2205
+
+<Shoe> rolls 3
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ1030
+
+<Hat> rolls 5
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ935
+
+<Dog> rolls 1
+<Dog> lands on Yellow Road
+<Dog> pays œ30 to Dog
+<Dog> has  œ40
+
+<Car> rolls 6
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ2205
+
+<Shoe> rolls 3
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ995
+
+<Hat> rolls 5
+<Hat> lands on Penalty
+<Hat> rolls 6
+<Hat> Pay some university fees. Lose œ300
+<Hat> has  œ635
+
+<Dog> rolls 1
+<Dog> lands on Yellow Street
+<Dog> pays œ30 to Shoe
+<Dog> has  œ10
+
+<Car> rolls 6
+<Car> lands on Purple Road
+<Car> pays œ50 to Car
+<Car> has  œ2240
+
+<Shoe> rolls 3
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ980
+
+<Hat> rolls 5
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ680
+
+<Dog> rolls 1
+<Dog> lands on Penalty
+<Dog> rolls 6
+<Dog> Pay some university fees. Lose œ300
+<Dog> has  œ-290
+
+<Car> rolls 3
+<Car> passes GO and collects œ200
+<Car> lands on Red Road
+<Car> pays œ5 to Dog
+<Car> has  œ2435
+
+<Shoe> rolls 5
+<Shoe> passes GO and collects œ200
+<Shoe> lands on GO
+<Shoe> has  œ1180
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Dog
+<Hat> has  œ875
+
+<Dog> rolls 1
+<Dog> mortgage Red Road for 60
+<Dog> mortgage Brown Road for 140
+<Dog> mortgage Brown Street for 160
+<Dog> repay mortgaged Red Road for 60
+<Dog> lands on Green Road
+<Dog> pays œ35 to Hat
+<Dog> has  œ-15
+
+<Car> rolls 6
+<Car> lands on Brown Road
+<Car> has  œ2435
+
+<Shoe> rolls 3
+<Shoe> lands on Bonus
+<Shoe> rolls 5
+<Shoe> Received a bequest. Gain œ200
+<Shoe> has  œ1380
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> has  œ910
+
+<Dog> rolls 1
+<Dog> mortgage Red Road for 60
+<Dog> lands on Green Street
+<Dog> pays œ35 to Car
+<Dog> has  œ10
+
+<Car> rolls 6
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ2470
+
+<Shoe> rolls 3
+<Shoe> lands on Jail
+<Shoe> is just visiting
+<Shoe> has  œ1380
+
+<Hat> rolls 5
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ885
+
+<Dog> rolls 1
+<Dog> lands on Go to Jail
+<Dog> goes to Jail
+<Dog> pays œ50
+<Dog> has  œ-40
+
+<Car> rolls 6
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ2445
+
+<Shoe> rolls 3
+<Shoe> lands on Railway Station
+<Shoe> has  œ1380
+
+<Hat> rolls 5
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ885
+
+<Dog> rolls 1
+<Dog> mortgage Yellow Road for 220
+<Dog> repay mortgaged Brown Road for 140
+<Dog> lands on Brown Road
+<Dog> pays œ40 to Dog
+<Dog> has  œ40
+
+<Car> rolls 6
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ2445
+
+<Shoe> rolls 3
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ1355
+
+<Hat> rolls 5
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Car
+<Hat> has  œ840
+
+<Dog> rolls 1
+<Dog> lands on Brown Street
+<Dog> has  œ40
+
+<Car> rolls 6
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ2515
+
+<Shoe> rolls 3
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ1355
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> has  œ1040
+
+<Dog> rolls 1
+<Dog> lands on Railway Station
+<Dog> has  œ40
+
+<Car> rolls 6
+<Car> lands on Purple Road
+<Car> pays œ50 to Car
+<Car> has  œ2515
+
+<Shoe> rolls 3
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ1320
+
+<Hat> rolls 5
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ1040
+
+<Dog> rolls 1
+<Dog> lands on Orange Road
+<Dog> pays œ25 to Car
+<Dog> has  œ15
+
+<Car> rolls 6
+<Car> passes GO and collects œ200
+<Car> lands on Grey Road
+<Car> pays œ15 to Car
+<Car> has  œ2775
+
+<Shoe> rolls 3
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ1275
+
+<Hat> rolls 5
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ1085
+
+<Dog> rolls 1
+<Dog> lands on Orange Street
+<Dog> pays œ25 to Hat
+<Dog> has  œ-10
+
+<Car> rolls 6
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ2775
+
+<Shoe> rolls 3
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ1225
+
+<Hat> rolls 5
+<Hat> lands on Penalty
+<Hat> rolls 6
+<Hat> Pay some university fees. Lose œ300
+<Hat> has  œ810
+
+<Dog> rolls 1
+<Dog> mortgage Brown Road for 140
+<Dog> repay mortgaged Red Road for 60
+<Dog> lands on Orange Way
+<Dog> pays œ25 to Car
+<Dog> has  œ45
+
+<Car> rolls 6
+<Car> lands on Penalty
+<Car> rolls 3
+<Car> Visit the SU shop for food. Lose œ100
+<Car> has  œ2750
+
+<Shoe> rolls 5
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Bonus
+<Shoe> rolls 6
+<Shoe> It's your birthday. Gain œ300
+<Shoe> has  œ1725
+
+<Hat> rolls 6
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Car
+<Hat> has  œ765
+
+<Dog> rolls 1
+<Dog> lands on Free Parking
+<Dog> is resting
+<Dog> has  œ45
+
+<Car> rolls 6
+<Car> lands on Blue Way
+<Car> pays œ45 to Car
+<Car> has  œ2795
+
+<Shoe> rolls 3
+<Shoe> lands on Jail
+<Shoe> is just visiting
+<Shoe> has  œ1725
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Dog
+<Hat> has  œ960
+
+<Dog> rolls 1
+<Dog> lands on Yellow Road
+<Dog> has  œ50
+
+<Car> rolls 6
+<Car> passes GO and collects œ200
+<Car> lands on Red Street
+<Car> pays œ10 to Shoe
+<Car> has  œ2985
+
+<Shoe> rolls 3
+<Shoe> lands on Railway Station
+<Shoe> has  œ1735
+
+<Hat> rolls 5
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ960
+
+<Dog> rolls 1
+<Dog> lands on Yellow Street
+<Dog> pays œ30 to Shoe
+<Dog> has  œ20
+
+<Car> rolls 6
+<Car> lands on Brown Street
+<Car> has  œ2985
+
+<Shoe> rolls 3
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ1740
+
+<Hat> rolls 5
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ960
+
+<Dog> rolls 1
+<Dog> lands on Penalty
+<Dog> rolls 6
+<Dog> Pay some university fees. Lose œ300
+<Dog> has  œ-280
+
+<Car> rolls 3
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ2985
+
+<Shoe> rolls 5
+<Shoe> lands on Green Road
+<Shoe> pays œ35 to Hat
+<Shoe> has  œ1705
+
+<Hat> rolls 6
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ1020
+
+<Dog> rolls 1
+<Dog> mortgage Red Road for 60
+
+<Dog> went bankrupt
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ2985
+
+<Shoe> rolls 6
+<Shoe> lands on Bus Station
+<Shoe> has  œ1705
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ975
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ2985
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Bonus
+<Shoe> rolls 3
+<Shoe> Received a rent rebate. Gain œ100
+<Shoe> has  œ2050
+
+<Hat> rolls 5
+<Hat> lands on Purple Street
+<Hat> buys Purple Street for œ420
+<Hat> has  œ555
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> buys Yellow Road for œ220
+<Car> has  œ2765
+
+<Shoe> rolls 6
+<Shoe> lands on Railway Station
+<Shoe> has  œ2050
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ745
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ2735
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ2090
+
+<Hat> rolls 3
+<Hat> lands on Grey Street
+<Hat> pays œ15 to Hat
+<Hat> has  œ745
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ2435
+
+<Shoe> rolls 3
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ2055
+
+<Hat> rolls 5
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Car
+<Hat> has  œ720
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ2460
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ2005
+
+<Hat> rolls 3
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ755
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ2510
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ2190
+
+<Hat> rolls 3
+<Hat> lands on Penalty
+<Hat> rolls 5
+<Hat> Go for a romantic meal. Lose œ200
+<Hat> has  œ555
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ2475
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ2165
+
+<Hat> rolls 3
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ505
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> buys Brown Road for œ140
+<Car> has  œ2360
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ2065
+
+<Hat> rolls 5
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ505
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> buys Brown Street for œ160
+<Car> has  œ2200
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Way
+<Shoe> pays œ45 to Car
+<Shoe> has  œ2020
+
+<Hat> rolls 3
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ475
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ2275
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Street
+<Shoe> pays œ10 to Shoe
+<Shoe> has  œ2220
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ475
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ2275
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Car
+<Shoe> has  œ2180
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ430
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ2290
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Car
+<Shoe> has  œ2195
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ455
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ2320
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Road
+<Shoe> pays œ45 to Shoe
+<Shoe> has  œ2195
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ655
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ2320
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on GO
+<Shoe> has  œ2395
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ855
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ2320
+
+<Shoe> rolls 6
+<Shoe> lands on Jail
+<Shoe> is just visiting
+<Shoe> has  œ2395
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ855
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ2290
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ2400
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ855
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ2015
+
+<Shoe> rolls 3
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ2400
+
+<Hat> rolls 5
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ825
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ2010
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ2355
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ905
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ2010
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> buys Red Road for œ60
+<Shoe> has  œ2495
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ860
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ1960
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ2500
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ860
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ2000
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ2500
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ1060
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ2000
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ2450
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ1260
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ2000
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ2425
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ1260
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ2025
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ2390
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ1260
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ2035
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ2340
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ1260
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ2110
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ2525
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ1230
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ2125
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ2530
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ1195
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ2185
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ2430
+
+<Hat> rolls 5
+<Hat> lands on Bus Station
+<Hat> has  œ1195
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ2155
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Way
+<Shoe> pays œ45 to Car
+<Shoe> has  œ2415
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ1395
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ1900
+
+<Shoe> rolls 3
+<Shoe> lands on Purple Street
+<Shoe> pays œ50 to Hat
+<Shoe> has  œ2365
+
+<Hat> rolls 5
+<Hat> lands on Grey Street
+<Hat> pays œ15 to Hat
+<Hat> has  œ1445
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ1865
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Street
+<Shoe> pays œ15 to Hat
+<Shoe> has  œ2550
+
+<Hat> rolls 3
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Car
+<Hat> has  œ1455
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ1905
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ2525
+
+<Hat> rolls 3
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ1480
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ1855
+
+<Shoe> rolls 6
+<Shoe> lands on Green Road
+<Shoe> pays œ35 to Hat
+<Shoe> has  œ2490
+
+<Hat> rolls 3
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ1485
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ1885
+
+<Shoe> rolls 6
+<Shoe> lands on Bus Station
+<Shoe> has  œ2490
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ1485
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ1885
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Bonus
+<Shoe> rolls 3
+<Shoe> Received a rent rebate. Gain œ100
+<Shoe> has  œ2790
+
+<Hat> rolls 5
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Car
+<Hat> has  œ1440
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ1930
+
+<Shoe> rolls 6
+<Shoe> lands on Railway Station
+<Shoe> has  œ2790
+
+<Hat> rolls 3
+<Hat> lands on Purple Street
+<Hat> pays œ50 to Hat
+<Hat> has  œ1440
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ1930
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ2790
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ1630
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ1905
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ2755
+
+<Hat> rolls 3
+<Hat> lands on Grey Street
+<Hat> pays œ15 to Hat
+<Hat> has  œ1700
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ1905
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ2955
+
+<Hat> rolls 3
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Car
+<Hat> has  œ1660
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ1945
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ2915
+
+<Hat> rolls 3
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ1660
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ1985
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ2915
+
+<Hat> rolls 3
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ1630
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ1985
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ2895
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ1630
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ1685
+
+<Shoe> rolls 3
+<Shoe> lands on Railway Station
+<Shoe> has  œ2895
+
+<Hat> rolls 5
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Car
+<Hat> has  œ1585
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ1695
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ2895
+
+<Hat> rolls 3
+<Hat> lands on Purple Street
+<Hat> pays œ50 to Hat
+<Hat> has  œ1620
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ1695
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ2850
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ1855
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ1645
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ3060
+
+<Hat> rolls 3
+<Hat> lands on Grey Street
+<Hat> pays œ15 to Hat
+<Hat> has  œ1855
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ1645
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ3020
+
+<Hat> rolls 3
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Car
+<Hat> has  œ1815
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ1725
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ3020
+
+<Hat> rolls 3
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ1815
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ1725
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ2970
+
+<Hat> rolls 3
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ1785
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ1755
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ2945
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ1785
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ1755
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ2910
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ1765
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ1790
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ2905
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ1765
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ1840
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ3090
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ1965
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ1855
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ3065
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ2165
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ1850
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ2995
+
+<Hat> rolls 5
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Car
+<Hat> has  œ2125
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ1590
+
+<Shoe> rolls 3
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ2945
+
+<Hat> rolls 5
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ2125
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ1555
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ2920
+
+<Hat> rolls 3
+<Hat> lands on Penalty
+<Hat> rolls 5
+<Hat> Go for a romantic meal. Lose œ200
+<Hat> has  œ1960
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ1580
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ2885
+
+<Hat> rolls 3
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ1910
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ1565
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ2835
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ1910
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ1615
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ3020
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ1885
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ1655
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ2995
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ1855
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ1680
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ2925
+
+<Hat> rolls 5
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ1810
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ1680
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Way
+<Shoe> pays œ45 to Car
+<Shoe> has  œ2925
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ1810
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ1700
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Street
+<Shoe> pays œ10 to Shoe
+<Shoe> has  œ3125
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ2035
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ1700
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Car
+<Shoe> has  œ3085
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ2235
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ1740
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Car
+<Shoe> has  œ3055
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ2235
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ1770
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Road
+<Shoe> pays œ45 to Shoe
+<Shoe> has  œ3055
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ2235
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ1740
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on GO
+<Shoe> has  œ3285
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ2210
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ1465
+
+<Shoe> rolls 3
+<Shoe> lands on Bonus
+<Shoe> rolls 5
+<Shoe> Received a bequest. Gain œ200
+<Shoe> has  œ3485
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ2175
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ1465
+
+<Shoe> rolls 6
+<Shoe> lands on Railway Station
+<Shoe> has  œ3485
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ2210
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ1465
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ3485
+
+<Hat> rolls 3
+<Hat> lands on Purple Road
+<Hat> pays œ50 to Car
+<Hat> has  œ2160
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ1465
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ3440
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ2400
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ1465
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ3645
+
+<Hat> rolls 3
+<Hat> lands on Grey Road
+<Hat> pays œ15 to Car
+<Hat> has  œ2385
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ1480
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ3605
+
+<Hat> rolls 3
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Car
+<Hat> has  œ2345
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ1560
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ3605
+
+<Hat> rolls 3
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Car
+<Hat> has  œ2320
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ1585
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ3555
+
+<Hat> rolls 3
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ2320
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ1560
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ3530
+
+<Hat> rolls 3
+<Hat> lands on Penalty
+<Hat> rolls 5
+<Hat> Go for a romantic meal. Lose œ200
+<Hat> has  œ2145
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ1585
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ3495
+
+<Hat> rolls 3
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ2095
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ1620
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ3445
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ2095
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ1670
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ3630
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ2070
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ1680
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ3635
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ2040
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ1405
+
+<Shoe> rolls 3
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ3665
+
+<Hat> rolls 5
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ1995
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ1370
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ3660
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ2030
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ1370
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ3635
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ2230
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ1345
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ3600
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ2430
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ1380
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ3550
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ2430
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ1430
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ3735
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ2430
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ1445
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ3710
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ2405
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ1495
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ3610
+
+<Hat> rolls 5
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ2405
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ1470
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Way
+<Shoe> pays œ45 to Car
+<Shoe> has  œ3565
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ2385
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ1515
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Street
+<Shoe> pays œ10 to Shoe
+<Shoe> has  œ3810
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ2385
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ1515
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Car
+<Shoe> has  œ3770
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ2585
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ1555
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Car
+<Shoe> has  œ3740
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ2785
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ1555
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Road
+<Shoe> pays œ45 to Shoe
+<Shoe> has  œ3770
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ2785
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ1255
+
+<Shoe> rolls 3
+<Shoe> lands on Bus Station
+<Shoe> has  œ3770
+
+<Hat> rolls 5
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ2785
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ1220
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Bonus
+<Shoe> rolls 3
+<Shoe> Received a rent rebate. Gain œ100
+<Shoe> has  œ4070
+
+<Hat> rolls 5
+<Hat> lands on Penalty
+<Hat> rolls 6
+<Hat> Pay some university fees. Lose œ300
+<Hat> has  œ2520
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ1220
+
+<Shoe> rolls 6
+<Shoe> lands on Railway Station
+<Shoe> has  œ4070
+
+<Hat> rolls 3
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ2470
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ1170
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ4070
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ2470
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ1170
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ4025
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ2490
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ1195
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ4225
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ2460
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ1195
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ4215
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ2425
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ1270
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ4215
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ2425
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ1245
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ4165
+
+<Hat> rolls 3
+<Hat> lands on Purple Road
+<Hat> pays œ50 to Car
+<Hat> has  œ2400
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ1295
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ4140
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ2595
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ1320
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ4110
+
+<Hat> rolls 3
+<Hat> lands on Grey Road
+<Hat> pays œ15 to Car
+<Hat> has  œ2580
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ1370
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ4060
+
+<Hat> rolls 3
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Car
+<Hat> has  œ2540
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ1430
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ4275
+
+<Hat> rolls 3
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Car
+<Hat> has  œ2515
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ1170
+
+<Shoe> rolls 3
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ4235
+
+<Hat> rolls 5
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ2485
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ1175
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ4265
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ2485
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ1210
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ4215
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ2485
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ1160
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ4190
+
+<Hat> rolls 3
+<Hat> lands on Purple Road
+<Hat> pays œ50 to Car
+<Hat> has  œ2435
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ1235
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ4155
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ2630
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ1270
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ4110
+
+<Hat> rolls 3
+<Hat> lands on Grey Road
+<Hat> pays œ15 to Car
+<Hat> has  œ2615
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ1335
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ4295
+
+<Hat> rolls 3
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Car
+<Hat> has  œ2575
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ1390
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ4270
+
+<Hat> rolls 3
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Car
+<Hat> has  œ2550
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ1415
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ4170
+
+<Hat> rolls 5
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ2545
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ1415
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Way
+<Shoe> pays œ45 to Car
+<Shoe> has  œ4155
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ2510
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ1495
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Street
+<Shoe> pays œ10 to Shoe
+<Shoe> has  œ4355
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ2510
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ1495
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Car
+<Shoe> has  œ4315
+
+<Hat> rolls 3
+<Hat> lands on Purple Road
+<Hat> pays œ50 to Car
+<Hat> has  œ2460
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ1555
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Car
+<Shoe> has  œ4315
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ2655
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ1285
+
+<Shoe> rolls 3
+<Shoe> lands on Green Road
+<Shoe> pays œ35 to Hat
+<Shoe> has  œ4285
+
+<Hat> rolls 5
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ2690
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ1250
+
+<Shoe> rolls 6
+<Shoe> lands on Bus Station
+<Shoe> has  œ4285
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ2725
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ1250
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Bonus
+<Shoe> rolls 3
+<Shoe> Received a rent rebate. Gain œ100
+<Shoe> has  œ4585
+
+<Hat> rolls 5
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ2695
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ1230
+
+<Shoe> rolls 6
+<Shoe> lands on Railway Station
+<Shoe> has  œ4585
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ2695
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ1230
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ4585
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ2650
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ1230
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ4585
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ2695
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ1230
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ4785
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ2895
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ1230
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ4745
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ3095
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ1245
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ4745
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ3120
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ1245
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ4695
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ3120
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ1245
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ4670
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ3095
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ1295
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ4635
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ3065
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ1300
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ4645
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ3030
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ1085
+
+<Shoe> rolls 3
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ4845
+
+<Hat> rolls 5
+<Hat> lands on Bus Station
+<Hat> has  œ3030
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ1050
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ4805
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ3265
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ1090
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ4805
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ3465
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ1040
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ4755
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ3465
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ1040
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ4730
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ3465
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ1065
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ4695
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ3440
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ1125
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ4645
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ3410
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ1175
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ4860
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ3375
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ1200
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ4835
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ3400
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ1225
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ4735
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ3600
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ1225
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Way
+<Shoe> pays œ45 to Car
+<Shoe> has  œ4690
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ3800
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ1270
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Street
+<Shoe> pays œ10 to Shoe
+<Shoe> has  œ4890
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ3800
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ1240
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Car
+<Shoe> has  œ4880
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ3800
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ980
+
+<Shoe> rolls 3
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ4855
+
+<Hat> rolls 5
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ3795
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ975
+
+<Shoe> rolls 6
+<Shoe> lands on Green Road
+<Shoe> pays œ35 to Hat
+<Shoe> has  œ4820
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ3865
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ975
+
+<Shoe> rolls 6
+<Shoe> lands on Bus Station
+<Shoe> has  œ4820
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ3820
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ925
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Bonus
+<Shoe> rolls 3
+<Shoe> Received a rent rebate. Gain œ100
+<Shoe> has  œ5165
+
+<Hat> rolls 5
+<Hat> lands on Purple Street
+<Hat> pays œ50 to Hat
+<Hat> has  œ3820
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ925
+
+<Shoe> rolls 6
+<Shoe> lands on Railway Station
+<Shoe> has  œ5165
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ4010
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ925
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ5175
+
+<Hat> rolls 3
+<Hat> lands on Grey Street
+<Hat> pays œ15 to Hat
+<Hat> has  œ4010
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ925
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ5130
+
+<Hat> rolls 3
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Car
+<Hat> has  œ4015
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ965
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ5330
+
+<Hat> rolls 3
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ4015
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ940
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ5290
+
+<Hat> rolls 3
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ4010
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ1010
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ5290
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ4010
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ1010
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ5240
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ3965
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ1010
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ5260
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ3965
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ1005
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ5255
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ4165
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ740
+
+<Shoe> rolls 3
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ5210
+
+<Hat> rolls 5
+<Hat> lands on Grey Street
+<Hat> pays œ15 to Hat
+<Hat> has  œ4210
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ705
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ5410
+
+<Hat> rolls 3
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Car
+<Hat> has  œ4205
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ745
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ5370
+
+<Hat> rolls 3
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ4205
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ735
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ5370
+
+<Hat> rolls 3
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ4175
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ765
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ5320
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ4175
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ765
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ5295
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ4130
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ790
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ5305
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ4130
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ825
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ5255
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ4330
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ850
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ5440
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ4555
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ865
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ5415
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ4555
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ890
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ5315
+
+<Hat> rolls 5
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ4555
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ890
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Way
+<Shoe> pays œ45 to Car
+<Shoe> has  œ5270
+
+<Hat> rolls 3
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ4525
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ935
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Street
+<Shoe> pays œ10 to Shoe
+<Shoe> has  œ5500
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ4525
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ635
+
+<Shoe> rolls 3
+<Shoe> lands on Grey Street
+<Shoe> pays œ15 to Hat
+<Shoe> has  œ5485
+
+<Hat> rolls 5
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Car
+<Hat> has  œ4495
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ645
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ5460
+
+<Hat> rolls 3
+<Hat> lands on Purple Street
+<Hat> pays œ50 to Hat
+<Hat> has  œ4555
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ645
+
+<Shoe> rolls 6
+<Shoe> lands on Green Road
+<Shoe> pays œ35 to Hat
+<Shoe> has  œ5425
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ4780
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ595
+
+<Shoe> rolls 6
+<Shoe> lands on Bus Station
+<Shoe> has  œ5435
+
+<Hat> rolls 3
+<Hat> lands on Grey Street
+<Hat> pays œ15 to Hat
+<Hat> has  œ4780
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ595
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Bonus
+<Shoe> rolls 3
+<Shoe> Received a rent rebate. Gain œ100
+<Shoe> has  œ5735
+
+<Hat> rolls 5
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Car
+<Hat> has  œ4755
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ620
+
+<Shoe> rolls 6
+<Shoe> lands on Railway Station
+<Shoe> has  œ5735
+
+<Hat> rolls 3
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ4755
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ620
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ5735
+
+<Hat> rolls 3
+<Hat> lands on Penalty
+<Hat> rolls 5
+<Hat> Go for a romantic meal. Lose œ200
+<Hat> has  œ4555
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ620
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ5690
+
+<Hat> rolls 3
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ4550
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ595
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ5890
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ4575
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ595
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ5850
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ4550
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ660
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ5850
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ4520
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ660
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ5830
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ4485
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ665
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ5835
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ4485
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ390
+
+<Shoe> rolls 3
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ5835
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ4685
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ355
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ5790
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ4965
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ355
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ5990
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ4965
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ305
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ5950
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ4965
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ345
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ5950
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ4940
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ370
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ5900
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ4910
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ370
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ5905
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ4875
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ430
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ5870
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ4875
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ440
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ5820
+
+<Hat> rolls 3
+<Hat> lands on Purple Road
+<Hat> pays œ50 to Car
+<Hat> has  œ4850
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ540
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ6005
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ5045
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ555
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ5985
+
+<Hat> rolls 3
+<Hat> lands on Grey Road
+<Hat> pays œ15 to Car
+<Hat> has  œ5030
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ595
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ5885
+
+<Hat> rolls 5
+<Hat> lands on Railway Station
+<Hat> has  œ5030
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ565
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Way
+<Shoe> pays œ45 to Car
+<Shoe> has  œ5870
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ5005
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ335
+
+<Shoe> rolls 3
+<Shoe> lands on Purple Street
+<Shoe> pays œ50 to Hat
+<Shoe> has  œ5820
+
+<Hat> rolls 5
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ5055
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ300
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Street
+<Shoe> pays œ15 to Hat
+<Shoe> has  œ6005
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ5060
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ300
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ6025
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ5085
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ250
+
+<Shoe> rolls 6
+<Shoe> lands on Green Road
+<Shoe> pays œ35 to Hat
+<Shoe> has  œ5990
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ5320
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ250
+
+<Shoe> rolls 6
+<Shoe> lands on Bus Station
+<Shoe> has  œ5990
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ5520
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ250
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Bonus
+<Shoe> rolls 3
+<Shoe> Received a rent rebate. Gain œ100
+<Shoe> has  œ6290
+
+<Hat> rolls 5
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Car
+<Hat> has  œ5480
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ290
+
+<Shoe> rolls 6
+<Shoe> lands on Railway Station
+<Shoe> has  œ6290
+
+<Hat> rolls 3
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ5480
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ290
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ6290
+
+<Hat> rolls 3
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ5450
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ295
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ6245
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ5520
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ295
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ6445
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ5475
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ295
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ6450
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ5475
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ335
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ6450
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ5675
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ305
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ6430
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ5875
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ5
+
+<Shoe> rolls 3
+<Shoe> lands on Railway Station
+<Shoe> has  œ6430
+
+<Hat> rolls 5
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Car
+<Hat> has  œ5835
+
+<Car> rolls 1
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ10
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ6430
+
+<Hat> rolls 3
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ5870
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ10
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ6385
+
+<Hat> rolls 3
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ5885
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ-10
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ6585
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ5885
+
+<Car> rolls 1
+<Car> mortgage Grey Road for 100
+<Car> lands on Brown Road
+<Car> pays œ40 to Car
+<Car> has  œ90
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Car
+<Shoe> has  œ6545
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ5840
+
+<Car> rolls 1
+<Car> repay mortgaged Grey Road for 100
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ30
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ6590
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ5840
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ30
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ6540
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ6040
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ30
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ6515
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ6240
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ30
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ6480
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ6265
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ65
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ6430
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ6265
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ115
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ6615
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ6240
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ155
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ6590
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ6210
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ150
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ6550
+
+<Hat> rolls 5
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ6165
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ-150
+
+<Shoe> rolls 3
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ6545
+
+<Hat> rolls 5
+<Hat> lands on Purple Street
+<Hat> pays œ50 to Hat
+<Hat> has  œ6165
+
+<Car> rolls 1
+<Car> mortgage Grey Road for 100
+<Car> mortgage Brown Road for 140
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ55
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ6520
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ6390
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ80
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ6495
+
+<Hat> rolls 3
+<Hat> lands on Grey Street
+<Hat> pays œ15 to Hat
+<Hat> has  œ6390
+
+<Car> rolls 1
+<Car> repay mortgaged Grey Road for 100
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ-35
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ6445
+
+<Hat> rolls 3
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Car
+<Hat> has  œ6350
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> has  œ55
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ6630
+
+<Hat> rolls 3
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ6350
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ70
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ6605
+
+<Hat> rolls 3
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ6320
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ125
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ6505
+
+<Hat> rolls 5
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ6270
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ125
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Way
+<Shoe> pays œ45 to Car
+<Shoe> has  œ6460
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ6270
+
+<Car> rolls 1
+<Car> repay mortgaged Brown Road for 140
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ5
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Street
+<Shoe> pays œ10 to Shoe
+<Shoe> has  œ6660
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ6270
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ30
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Car
+<Shoe> has  œ6620
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ6240
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ70
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Car
+<Shoe> has  œ6620
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ6205
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ135
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Road
+<Shoe> pays œ45 to Shoe
+<Shoe> has  œ6620
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ6205
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ105
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on GO
+<Shoe> has  œ6850
+
+<Hat> rolls 3
+<Hat> lands on Purple Road
+<Hat> pays œ50 to Car
+<Hat> has  œ6155
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ-145
+
+<Shoe> rolls 3
+<Shoe> lands on Bonus
+<Shoe> rolls 5
+<Shoe> Received a bequest. Gain œ200
+<Shoe> has  œ7050
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ15 to Car
+<Hat> has  œ6340
+
+<Car> rolls 1
+<Car> mortgage Grey Road for 100
+<Car> mortgage Brown Road for 140
+<Car> repay mortgaged Grey Road for 100
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ-25
+
+<Shoe> rolls 6
+<Shoe> lands on Railway Station
+<Shoe> has  œ7050
+
+<Hat> rolls 3
+<Hat> lands on Brown Road
+<Hat> has  œ6375
+
+<Car> rolls 1
+<Car> mortgage Grey Road for 100
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ75
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ7050
+
+<Hat> rolls 3
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Car
+<Hat> has  œ6350
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ50
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ7005
+
+<Hat> rolls 3
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ6395
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> has  œ50
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ7205
+
+<Hat> rolls 3
+<Hat> lands on Penalty
+<Hat> rolls 5
+<Hat> Go for a romantic meal. Lose œ200
+<Hat> has  œ6195
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> pays œ40 to Car
+<Car> has  œ50
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> has  œ7205
+
+<Hat> rolls 3
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ6145
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ50
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ7205
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ6145
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ50
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ7155
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ6120
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ50
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ7130
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ6115
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ75
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ7125
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ6080
+
+<Car> rolls 1
+<Car> repay mortgaged Brown Road for 140
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ5
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ7075
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ6080
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ55
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> has  œ7275
+
+<Hat> rolls 3
+<Hat> lands on Purple Road
+<Hat> pays œ50 to Car
+<Hat> has  œ6030
+
+<Car> rolls 1
+<Car> repay mortgaged Grey Road for 100
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ-25
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ7280
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ6225
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ-300
+
+<Shoe> rolls 3
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ7285
+
+<Hat> rolls 5
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ6225
+
+<Car> rolls 1
+<Car> mortgage Grey Road for 100
+<Car> mortgage Brown Road for 140
+<Car> mortgage Brown Street for 160
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ65
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ7235
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ6260
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ65
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ7210
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ6235
+
+<Car> rolls 1
+<Car> repay mortgaged Grey Road for 100
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ-35
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ7175
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ6205
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> has  œ0
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ7155
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ6170
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> has  œ85
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ7340
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ6170
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ100
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Car
+<Shoe> has  œ7315
+
+<Hat> rolls 3
+<Hat> lands on Purple Road
+<Hat> pays œ50 to Car
+<Hat> has  œ6120
+
+<Car> rolls 1
+<Car> repay mortgaged Brown Road for 140
+<Car> lands on Orange Road
+<Car> pays œ25 to Car
+<Car> has  œ35
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ7215
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on Bonus
+<Hat> rolls 6
+<Hat> It's your birthday. Gain œ300
+<Hat> has  œ6620
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ10
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Way
+<Shoe> pays œ45 to Car
+<Shoe> has  œ7170
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ6645
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ55
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Street
+<Shoe> pays œ10 to Shoe
+<Shoe> has  œ7370
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ6645
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ55
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Street
+<Shoe> has  œ7370
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ6620
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ80
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Car
+<Shoe> has  œ7340
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ6590
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ80
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Road
+<Shoe> pays œ45 to Shoe
+<Shoe> has  œ7400
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ6555
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ-185
+
+<Shoe> rolls 3
+<Shoe> lands on Bus Station
+<Shoe> has  œ7400
+
+<Hat> rolls 5
+<Hat> lands on Bus Station
+<Hat> has  œ6555
+
+<Car> rolls 1
+<Car> mortgage Grey Road for 100
+<Car> mortgage Brown Road for 140
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ20
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Bonus
+<Shoe> rolls 3
+<Shoe> Received a rent rebate. Gain œ100
+<Shoe> has  œ7700
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ6780
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ20
+
+<Shoe> rolls 6
+<Shoe> lands on Railway Station
+<Shoe> has  œ7710
+
+<Hat> rolls 3
+<Hat> lands on Grey Street
+<Hat> pays œ15 to Hat
+<Hat> has  œ6780
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ-30
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ7710
+
+<Hat> rolls 3
+<Hat> lands on Brown Street
+<Hat> has  œ6780
+
+<Car> rolls 1
+<Car> mortgage Orange Road for 180
+<Car> repay mortgaged Grey Road for 100
+<Car> lands on Brown Road
+<Car> has  œ50
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ7665
+
+<Hat> rolls 3
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ6825
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> has  œ50
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ7865
+
+<Hat> rolls 3
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ6795
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ80
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> has  œ7865
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ6795
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> has  œ80
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ7865
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ6750
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ55
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ7860
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ6775
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ55
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ7835
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ6975
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ80
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ7800
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ7175
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ115
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ7750
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ7175
+
+<Car> rolls 1
+<Car> repay mortgaged Brown Street for 160
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ-25
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ7965
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ7175
+
+<Car> rolls 1
+<Car> mortgage Grey Road for 100
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ-210
+
+<Shoe> rolls 3
+<Shoe> lands on Brown Road
+<Shoe> has  œ7965
+
+<Hat> rolls 5
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ7145
+
+<Car> rolls 1
+<Car> mortgage Brown Street for 160
+<Car> mortgage Orange Way for 200
+<Car> repay mortgaged Brown Road for 140
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ5
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ7965
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ7180
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ5
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ7915
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ7135
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ-45
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> has  œ7960
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ7135
+
+<Car> rolls 1
+<Car> mortgage Brown Road for 140
+<Car> lands on Brown Road
+<Car> has  œ95
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ7925
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ7335
+
+<Car> rolls 1
+<Car> repay mortgaged Grey Road for 100
+<Car> lands on Brown Street
+<Car> has  œ30
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ7875
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ7535
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ80
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ8060
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ7535
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> has  œ95
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> has  œ8060
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ7535
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ70
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ7960
+
+<Hat> rolls 5
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Car
+<Hat> has  œ7530
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> has  œ100
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Way
+<Shoe> pays œ45 to Car
+<Shoe> has  œ7915
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ7530
+
+<Car> rolls 1
+<Car> repay mortgaged Brown Road for 140
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ5
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Street
+<Shoe> pays œ10 to Shoe
+<Shoe> has  œ8115
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ7485
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ5
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Street
+<Shoe> has  œ8160
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ7485
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ-25
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Car
+<Shoe> has  œ8160
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ7685
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ-295
+
+<Shoe> rolls 3
+<Shoe> lands on Green Road
+<Shoe> pays œ35 to Hat
+<Shoe> has  œ8125
+
+<Hat> rolls 5
+<Hat> lands on Grey Street
+<Hat> pays œ15 to Hat
+<Hat> has  œ7720
+
+<Car> rolls 1
+<Car> mortgage Grey Road for 100
+<Car> mortgage Brown Road for 140
+<Car> mortgage Yellow Road for 220
+<Car> repay mortgaged Brown Street for 160
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ-30
+
+<Shoe> rolls 6
+<Shoe> lands on Bus Station
+<Shoe> has  œ8125
+
+<Hat> rolls 3
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Car
+<Hat> has  œ7715
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> pays œ35 to Car
+<Car> has  œ10
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Bonus
+<Shoe> rolls 3
+<Shoe> Received a rent rebate. Gain œ100
+<Shoe> has  œ8425
+
+<Hat> rolls 5
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ7715
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ-40
+
+<Shoe> rolls 6
+<Shoe> lands on Railway Station
+<Shoe> has  œ8425
+
+<Hat> rolls 3
+<Hat> lands on Penalty
+<Hat> rolls 5
+<Hat> Go for a romantic meal. Lose œ200
+<Hat> has  œ7515
+
+<Car> rolls 1
+<Car> mortgage Brown Street for 160
+<Car> repay mortgaged Grey Road for 100
+<Car> lands on Brown Road
+<Car> has  œ20
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ8425
+
+<Hat> rolls 3
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ7465
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> has  œ20
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ8380
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ7510
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ20
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ8580
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> has  œ7510
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> has  œ20
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> has  œ8580
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ7480
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ-5
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ8610
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> pays œ35 to Car
+<Hat> has  œ7470
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> has  œ30
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ8560
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ7470
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ30
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> has  œ8560
+
+<Hat> rolls 3
+<Hat> lands on Purple Road
+<Hat> pays œ50 to Car
+<Hat> has  œ7420
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> has  œ80
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> pays œ35 to Car
+<Shoe> has  œ8525
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ7615
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ85
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ8510
+
+<Hat> rolls 3
+<Hat> lands on Grey Road
+<Hat> pays œ15 to Car
+<Hat> has  œ7600
+
+<Car> rolls 1
+<Car> repay mortgaged Brown Road for 140
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ-290
+
+<Shoe> rolls 3
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ8710
+
+<Hat> rolls 5
+<Hat> lands on Railway Station
+<Hat> has  œ7600
+
+<Car> rolls 1
+<Car> mortgage Grey Road for 100
+<Car> mortgage Brown Road for 140
+<Car> mortgage Green Street for 280
+<Car> repay mortgaged Orange Road for 180
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ15
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> has  œ8710
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> has  œ7635
+
+<Car> rolls 1
+<Car> lands on Green Street
+<Car> has  œ15
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ8710
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ7605
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ-35
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ8690
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> has  œ7605
+
+<Car> rolls 1
+<Car> mortgage Orange Road for 180
+<Car> repay mortgaged Grey Road for 100
+<Car> lands on Brown Road
+<Car> has  œ45
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> has  œ8690
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ7605
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> has  œ45
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> has  œ8690
+
+<Hat> rolls 3
+<Hat> lands on Purple Road
+<Hat> pays œ50 to Car
+<Hat> has  œ7555
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ95
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> pays œ50 to Car
+<Shoe> has  œ8640
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ7750
+
+<Car> rolls 1
+<Car> repay mortgaged Brown Road for 140
+<Car> lands on Orange Road
+<Car> has  œ5
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> pays œ15 to Car
+<Shoe> has  œ8830
+
+<Hat> rolls 3
+<Hat> lands on Grey Road
+<Hat> pays œ15 to Car
+<Hat> has  œ7735
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ10
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> has  œ8830
+
+<Hat> rolls 3
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Car
+<Hat> has  œ7720
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> has  œ50
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ8730
+
+<Hat> rolls 5
+<Hat> lands on Orange Way
+<Hat> has  œ7720
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ50
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Way
+<Shoe> pays œ45 to Car
+<Shoe> has  œ8685
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ7690
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> has  œ95
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Street
+<Shoe> pays œ10 to Shoe
+<Shoe> has  œ8915
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> has  œ7690
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ65
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Street
+<Shoe> has  œ8945
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ7690
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ-235
+
+<Shoe> rolls 3
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ8920
+
+<Hat> rolls 5
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ7915
+
+<Car> rolls 1
+<Car> mortgage Grey Road for 100
+<Car> mortgage Brown Road for 140
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ-30
+
+<Shoe> rolls 6
+<Shoe> lands on Green Road
+<Shoe> pays œ35 to Hat
+<Shoe> has  œ8885
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ8185
+
+<Car> rolls 1
+<Car> mortgage Blue Way for 320
+<Car> repay mortgaged Orange Way for 200
+<Car> lands on Green Street
+<Car> has  œ90
+
+<Shoe> rolls 6
+<Shoe> lands on Bus Station
+<Shoe> has  œ8885
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ8185
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ40
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Bonus
+<Shoe> rolls 3
+<Shoe> Received a rent rebate. Gain œ100
+<Shoe> has  œ9185
+
+<Hat> rolls 5
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ8185
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> has  œ40
+
+<Shoe> rolls 6
+<Shoe> lands on Railway Station
+<Shoe> has  œ9185
+
+<Hat> rolls 3
+<Hat> lands on Yellow Road
+<Hat> has  œ8185
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> has  œ40
+
+<Shoe> rolls 6
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ9185
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ8185
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ40
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ9140
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ8185
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> has  œ40
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ9385
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ8185
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ15
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> has  œ9385
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ8410
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> pays œ25 to Car
+<Car> has  œ15
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ9385
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ8610
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ15
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ9335
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ8610
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> has  œ15
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Car
+<Shoe> has  œ9310
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ8610
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ10
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> has  œ9340
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Car
+<Hat> has  œ8585
+
+<Car> rolls 1
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ-265
+
+<Shoe> rolls 3
+<Shoe> lands on Blue Street
+<Shoe> pays œ45 to Hat
+<Shoe> has  œ9295
+
+<Hat> rolls 5
+<Hat> lands on Green Road
+<Hat> pays œ35 to Hat
+<Hat> has  œ8630
+
+<Car> rolls 1
+<Car> mortgage Orange Way for 200
+<Car> mortgage Purple Road for 400
+<Car> repay mortgaged Yellow Road for 220
+<Car> repay mortgaged Grey Road for 100
+<Car> lands on Green Road
+<Car> pays œ35 to Hat
+<Car> has  œ-20
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Road
+<Shoe> pays œ5 to Shoe
+<Shoe> has  œ9495
+
+<Hat> rolls 3
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ8620
+
+<Car> rolls 1
+<Car> mortgage Grey Road for 100
+<Car> lands on Green Street
+<Car> has  œ80
+
+<Shoe> rolls 6
+<Shoe> lands on Brown Road
+<Shoe> has  œ9540
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ8620
+
+<Car> rolls 1
+<Car> lands on Go to Jail
+<Car> goes to Jail
+<Car> pays œ50
+<Car> has  œ30
+
+<Shoe> rolls 6
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ9540
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ8820
+
+<Car> rolls 1
+<Car> lands on Brown Road
+<Car> has  œ30
+
+<Shoe> rolls 6
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ9490
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ9020
+
+<Car> rolls 1
+<Car> lands on Brown Street
+<Car> has  œ30
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Way
+<Shoe> has  œ9490
+
+<Hat> rolls 3
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ9020
+
+<Car> rolls 1
+<Car> lands on Railway Station
+<Car> has  œ30
+
+<Shoe> rolls 6
+<Shoe> lands on Green Street
+<Shoe> has  œ9490
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ9020
+
+<Car> rolls 1
+<Car> lands on Orange Road
+<Car> has  œ30
+
+<Shoe> rolls 6
+<Shoe> lands on Purple Road
+<Shoe> has  œ9490
+
+<Hat> rolls 3
+<Hat> lands on Orange Way
+<Hat> has  œ9020
+
+<Car> rolls 1
+<Car> lands on Orange Street
+<Car> pays œ25 to Hat
+<Car> has  œ5
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Grey Road
+<Shoe> has  œ9690
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ9015
+
+<Car> rolls 1
+<Car> lands on Orange Way
+<Car> has  œ5
+
+<Shoe> rolls 6
+<Shoe> lands on Orange Road
+<Shoe> has  œ9720
+
+<Hat> rolls 3
+<Hat> lands on Green Street
+<Hat> has  œ9015
+
+<Car> rolls 1
+<Car> lands on Free Parking
+<Car> is resting
+<Car> has  œ5
+
+<Shoe> rolls 6
+<Shoe> lands on Penalty
+<Shoe> rolls 3
+<Shoe> Visit the SU shop for food. Lose œ100
+<Shoe> has  œ9620
+
+<Hat> rolls 5
+<Hat> lands on Bus Station
+<Hat> has  œ9015
+
+<Car> rolls 1
+<Car> lands on Yellow Road
+<Car> pays œ30 to Car
+<Car> has  œ5
+
+<Shoe> rolls 6
+<Shoe> lands on Blue Way
+<Shoe> has  œ9620
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ9215
+
+<Car> rolls 1
+<Car> lands on Yellow Street
+<Car> pays œ30 to Shoe
+<Car> has  œ-25
+
+<Shoe> rolls 6
+<Shoe> passes GO and collects œ200
+<Shoe> lands on Red Street
+<Shoe> pays œ10 to Shoe
+<Shoe> has  œ9850
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ9415
+
+<Car> rolls 1
+<Car> mortgage Yellow Road for 220
+<Car> repay mortgaged Brown Street for 160
+<Car> lands on Penalty
+<Car> rolls 6
+<Car> Pay some university fees. Lose œ300
+<Car> has  œ-265
+
+<Shoe> rolls 3
+<Shoe> lands on Grey Street
+<Shoe> pays œ15 to Hat
+<Shoe> has  œ9835
+
+<Hat> rolls 5
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Car
+<Hat> has  œ9390
+
+<Car> rolls 1
+<Car> mortgage Brown Street for 160
+
+<Car> went bankrupt
+
+<Shoe> rolls 1
+<Shoe> lands on Jail
+<Shoe> is just visiting
+<Shoe> has  œ9835
+
+<Hat> rolls 6
+<Hat> lands on Yellow Road
+<Hat> buys Yellow Road for œ220
+<Hat> has  œ9170
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> buys Brown Road for œ140
+<Shoe> has  œ9695
+
+<Hat> rolls 6
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ9125
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> buys Brown Street for œ160
+<Shoe> has  œ9580
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ9325
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ9580
+
+<Hat> rolls 6
+<Hat> lands on Jail
+<Hat> is just visiting
+<Hat> has  œ9325
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> buys Orange Road for œ180
+<Shoe> has  œ9400
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> buys Orange Way for œ200
+<Hat> has  œ9125
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ9375
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> buys Green Street for œ280
+<Hat> has  œ8870
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ9350
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> buys Purple Road for œ400
+<Hat> has  œ8495
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ9350
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> buys Grey Road for œ100
+<Hat> has  œ8595
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ9320
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ8600
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ9345
+
+<Hat> rolls 6
+<Hat> lands on Penalty
+<Hat> rolls 3
+<Hat> Visit the SU shop for food. Lose œ100
+<Hat> has  œ8500
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ9045
+
+<Hat> rolls 3
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ8450
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ8975
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ8520
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ8905
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ8590
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ8855
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ8590
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ8855
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ8790
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ8855
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ8765
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ8880
+
+<Hat> rolls 6
+<Hat> lands on Penalty
+<Hat> rolls 3
+<Hat> Visit the SU shop for food. Lose œ100
+<Hat> has  œ8665
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ8880
+
+<Hat> rolls 6
+<Hat> lands on Blue Way
+<Hat> buys Blue Way for œ320
+<Hat> has  œ8345
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ8855
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ8560
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ8840
+
+<Hat> rolls 6
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Shoe
+<Hat> has  œ8545
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ8880
+
+<Hat> rolls 6
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ8545
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ8850
+
+<Hat> rolls 6
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ8530
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ8895
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ8730
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ8595
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ8930
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ8525
+
+<Hat> rolls 6
+<Hat> lands on Railway Station
+<Hat> has  œ9000
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ8455
+
+<Hat> rolls 6
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ9040
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ8435
+
+<Hat> rolls 6
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ9040
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ8435
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ9235
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ8440
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ9195
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ8480
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ9195
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ8480
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ9145
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ8455
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ9170
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ8430
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ9195
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ8430
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ9195
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ8400
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ9425
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ8400
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ9400
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ8125
+
+<Hat> rolls 3
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ9400
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ8055
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ9420
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ7985
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ9490
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ7935
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ9490
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ7935
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ9490
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ7935
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ9690
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ7935
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ9665
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ7960
+
+<Hat> rolls 6
+<Hat> lands on Penalty
+<Hat> rolls 3
+<Hat> Visit the SU shop for food. Lose œ100
+<Hat> has  œ9565
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ7935
+
+<Hat> rolls 6
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Hat
+<Hat> has  œ9590
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ7910
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ9805
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ7920
+
+<Hat> rolls 6
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Shoe
+<Hat> has  œ9765
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ7930
+
+<Hat> rolls 6
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ9795
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ7930
+
+<Hat> rolls 6
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ9750
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ7675
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ9750
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ7605
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Bonus
+<Hat> rolls 3
+<Hat> Received a rent rebate. Gain œ100
+<Hat> has  œ10120
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ7535
+
+<Hat> rolls 6
+<Hat> lands on Railway Station
+<Hat> has  œ10190
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ7485
+
+<Hat> rolls 6
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ10160
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ7515
+
+<Hat> rolls 6
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ10160
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ7515
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ10355
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ7520
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ10315
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ7560
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ10315
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ7535
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ10290
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ7510
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ10315
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ7510
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ10315
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ7480
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ10345
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ7480
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ10545
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ7180
+
+<Hat> rolls 3
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ10505
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ7150
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ10575
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ7080
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ10595
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ7030
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ10595
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ7030
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ10595
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ7030
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ10595
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ7030
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ10795
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ7030
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ10770
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ7030
+
+<Hat> rolls 6
+<Hat> lands on Penalty
+<Hat> rolls 3
+<Hat> Visit the SU shop for food. Lose œ100
+<Hat> has  œ10695
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ7005
+
+<Hat> rolls 6
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Hat
+<Hat> has  œ10720
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ7005
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ10910
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ6985
+
+<Hat> rolls 6
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Shoe
+<Hat> has  œ10900
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ7025
+
+<Hat> rolls 6
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ10900
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ6725
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ70 to Hat
+<Hat> has  œ10900
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ6655
+
+<Hat> rolls 6
+<Hat> lands on Bus Station
+<Hat> has  œ10970
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ6585
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Bonus
+<Hat> rolls 3
+<Hat> Received a rent rebate. Gain œ100
+<Hat> has  œ11340
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ6535
+
+<Hat> rolls 6
+<Hat> lands on Railway Station
+<Hat> has  œ11340
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ6535
+
+<Hat> rolls 6
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ11310
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ6565
+
+<Hat> rolls 6
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ11310
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ6565
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ11505
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ6570
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ11465
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ6585
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ11490
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ6560
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ11465
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ6560
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ11465
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ6530
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ11495
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ6530
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ11495
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ6230
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ11690
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ6165
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ11720
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ6135
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ11790
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ6085
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ11740
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ6085
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ11740
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ6085
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ11740
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ6085
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ11740
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ6085
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ11940
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ6060
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ11940
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ6060
+
+<Hat> rolls 6
+<Hat> lands on Penalty
+<Hat> rolls 3
+<Hat> Visit the SU shop for food. Lose œ100
+<Hat> has  œ11865
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ6060
+
+<Hat> rolls 6
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Hat
+<Hat> has  œ11865
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ6030
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ12085
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ6040
+
+<Hat> rolls 6
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Shoe
+<Hat> has  œ12045
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ5780
+
+<Hat> rolls 3
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ12045
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ5710
+
+<Hat> rolls 6
+<Hat> lands on Green Road
+<Hat> pays œ70 to Hat
+<Hat> has  œ12115
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ5640
+
+<Hat> rolls 6
+<Hat> lands on Bus Station
+<Hat> has  œ12185
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ5590
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Bonus
+<Hat> rolls 3
+<Hat> Received a rent rebate. Gain œ100
+<Hat> has  œ12485
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ5590
+
+<Hat> rolls 6
+<Hat> lands on Railway Station
+<Hat> has  œ12485
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ5590
+
+<Hat> rolls 6
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ12455
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ5620
+
+<Hat> rolls 6
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ12455
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ5620
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ12650
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ5600
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ12635
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ5615
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ12660
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ5615
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ12610
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ5585
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ12640
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ5585
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ12640
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ5285
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ12640
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ5215
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ12905
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ5150
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ12935
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ5140
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ12935
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ5140
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ12885
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ5140
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ12885
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ5140
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ12885
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ5140
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ12885
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ5115
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ13110
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ5090
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ13110
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ5115
+
+<Hat> rolls 6
+<Hat> lands on Penalty
+<Hat> rolls 3
+<Hat> Visit the SU shop for food. Lose œ100
+<Hat> has  œ13010
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ5085
+
+<Hat> rolls 6
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Hat
+<Hat> has  œ13040
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ5085
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ13230
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ4795
+
+<Hat> rolls 3
+<Hat> lands on Grey Street
+<Hat> pays œ30 to Hat
+<Hat> has  œ13230
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ4725
+
+<Hat> rolls 6
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ13300
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ4655
+
+<Hat> rolls 6
+<Hat> lands on Green Road
+<Hat> pays œ70 to Hat
+<Hat> has  œ13370
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ4605
+
+<Hat> rolls 6
+<Hat> lands on Bus Station
+<Hat> has  œ13370
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ4605
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Bonus
+<Hat> rolls 3
+<Hat> Received a rent rebate. Gain œ100
+<Hat> has  œ13670
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ4605
+
+<Hat> rolls 6
+<Hat> lands on Railway Station
+<Hat> has  œ13670
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ4605
+
+<Hat> rolls 6
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ13640
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ4635
+
+<Hat> rolls 6
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ13640
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ4610
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ13860
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ4590
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ13845
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ4630
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ13845
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ4600
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ13825
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ4600
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ13825
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ4300
+
+<Hat> rolls 3
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ13795
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ4260
+
+<Hat> rolls 6
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ13865
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ4190
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ14130
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ4145
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ14090
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ4185
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ14090
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ4185
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ14040
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ4185
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ14040
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ4185
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ14040
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ4160
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ14065
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ4135
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ14290
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ4135
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ14265
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ4130
+
+<Hat> rolls 6
+<Hat> lands on Penalty
+<Hat> rolls 3
+<Hat> Visit the SU shop for food. Lose œ100
+<Hat> has  œ14195
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ4130
+
+<Hat> rolls 6
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Hat
+<Hat> has  œ14195
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ3830
+
+<Hat> rolls 3
+<Hat> lands on Purple Street
+<Hat> pays œ100 to Hat
+<Hat> has  œ14195
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ3760
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Street
+<Hat> pays œ30 to Hat
+<Hat> has  œ14465
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ3690
+
+<Hat> rolls 6
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ14535
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ3640
+
+<Hat> rolls 6
+<Hat> lands on Green Road
+<Hat> pays œ70 to Hat
+<Hat> has  œ14535
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ3640
+
+<Hat> rolls 6
+<Hat> lands on Bus Station
+<Hat> has  œ14535
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ3640
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Bonus
+<Hat> rolls 3
+<Hat> Received a rent rebate. Gain œ100
+<Hat> has  œ14835
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ3640
+
+<Hat> rolls 6
+<Hat> lands on Railway Station
+<Hat> has  œ14835
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ3640
+
+<Hat> rolls 6
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ14805
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ3645
+
+<Hat> rolls 6
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ14830
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ3620
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ15050
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ3625
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ15010
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ3635
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ15040
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ3635
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ14990
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ3335
+
+<Hat> rolls 3
+<Hat> lands on Railway Station
+<Hat> has  œ14990
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ3265
+
+<Hat> rolls 6
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ15030
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ3225
+
+<Hat> rolls 6
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ15100
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ3175
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ15295
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ3180
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ15255
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ3220
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ15255
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ3220
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ15205
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ3220
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ15205
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ3195
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ15230
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ3170
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ15255
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ3170
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ15455
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ3140
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ15460
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ3165
+
+<Hat> rolls 6
+<Hat> lands on Penalty
+<Hat> rolls 3
+<Hat> Visit the SU shop for food. Lose œ100
+<Hat> has  œ15360
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ2865
+
+<Hat> rolls 3
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ15310
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ2795
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ15380
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ2725
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ15450
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ2675
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ15450
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ2675
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ15650
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ2675
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ15625
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ2700
+
+<Hat> rolls 6
+<Hat> lands on Penalty
+<Hat> rolls 3
+<Hat> Visit the SU shop for food. Lose œ100
+<Hat> has  œ15525
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ2700
+
+<Hat> rolls 6
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Hat
+<Hat> has  œ15525
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ2675
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ15740
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ2660
+
+<Hat> rolls 6
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Shoe
+<Hat> has  œ15725
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ2700
+
+<Hat> rolls 6
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ15725
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ2670
+
+<Hat> rolls 6
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ15710
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ2715
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on GO
+<Hat> has  œ15910
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ2415
+
+<Hat> rolls 3
+<Hat> lands on Bonus
+<Hat> rolls 5
+<Hat> Received a bequest. Gain œ200
+<Hat> has  œ16110
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ2345
+
+<Hat> rolls 6
+<Hat> lands on Railway Station
+<Hat> has  œ16180
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ2275
+
+<Hat> rolls 6
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ16220
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ2255
+
+<Hat> rolls 6
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ16220
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ2255
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ16415
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ2260
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ16375
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ2300
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ16375
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ2300
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ16325
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ2275
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ16350
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ2250
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ16375
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ2250
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ16375
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ2220
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ16605
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ2220
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ16580
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ1945
+
+<Hat> rolls 3
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ16580
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ1875
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ16600
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ1805
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ16670
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ1755
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ16670
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ1755
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ16670
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ1755
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ16870
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ1755
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ16845
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ1780
+
+<Hat> rolls 6
+<Hat> lands on Penalty
+<Hat> rolls 3
+<Hat> Visit the SU shop for food. Lose œ100
+<Hat> has  œ16745
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ1755
+
+<Hat> rolls 6
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Hat
+<Hat> has  œ16770
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ1730
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ16985
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ1740
+
+<Hat> rolls 6
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Shoe
+<Hat> has  œ16945
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ1750
+
+<Hat> rolls 6
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ16975
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ1750
+
+<Hat> rolls 6
+<Hat> lands on Blue Road
+<Hat> pays œ45 to Shoe
+<Hat> has  œ16930
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ1495
+
+<Hat> rolls 3
+<Hat> lands on Bus Station
+<Hat> has  œ16930
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ1425
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Bonus
+<Hat> rolls 3
+<Hat> Received a rent rebate. Gain œ100
+<Hat> has  œ17300
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ1355
+
+<Hat> rolls 6
+<Hat> lands on Railway Station
+<Hat> has  œ17370
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ1305
+
+<Hat> rolls 6
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ17340
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ1335
+
+<Hat> rolls 6
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ17340
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ1335
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ17535
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ1340
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ17495
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ1380
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ17495
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ1355
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ17470
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ1330
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ17495
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ1330
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ17495
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ1300
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ17525
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ1300
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ17725
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ1000
+
+<Hat> rolls 3
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ17685
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ970
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ17755
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ900
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ17775
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ850
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ17775
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ850
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ17775
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ850
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ17775
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ850
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ17975
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ850
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ17950
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ850
+
+<Hat> rolls 6
+<Hat> lands on Penalty
+<Hat> rolls 3
+<Hat> Visit the SU shop for food. Lose œ100
+<Hat> has  œ17875
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ825
+
+<Hat> rolls 6
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Hat
+<Hat> has  œ17900
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ825
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> pays œ10 to Shoe
+<Hat> has  œ18090
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ805
+
+<Hat> rolls 6
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Shoe
+<Hat> has  œ18080
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ845
+
+<Hat> rolls 6
+<Hat> lands on Yellow Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ18080
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ545
+
+<Hat> rolls 3
+<Hat> lands on Green Road
+<Hat> pays œ70 to Hat
+<Hat> has  œ18080
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ475
+
+<Hat> rolls 6
+<Hat> lands on Bus Station
+<Hat> has  œ18150
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ405
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Bonus
+<Hat> rolls 3
+<Hat> Received a rent rebate. Gain œ100
+<Hat> has  œ18520
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ355
+
+<Hat> rolls 6
+<Hat> lands on Railway Station
+<Hat> has  œ18520
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ355
+
+<Hat> rolls 6
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ18490
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ385
+
+<Hat> rolls 6
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ18490
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ385
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ18685
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ390
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ18645
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ405
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ18670
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ380
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ18645
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ380
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ18645
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ350
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ18675
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ350
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ18675
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ50
+
+<Hat> rolls 3
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ18870
+
+<Shoe> rolls 1
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ-15
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> pays œ40 to Shoe
+<Hat> has  œ18900
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ-45
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ18970
+
+<Shoe> rolls 1
+<Shoe> mortgage Red Road for 60
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ-35
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ18920
+
+<Shoe> rolls 1
+<Shoe> mortgage Red Street for 80
+<Shoe> lands on Brown Road
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ45
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ18920
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> pays œ40 to Shoe
+<Shoe> has  œ45
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ18920
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ45
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ18920
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> pays œ25 to Shoe
+<Shoe> has  œ45
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ19120
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ20
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> pays œ25 to Shoe
+<Hat> has  œ19120
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ20
+
+<Hat> rolls 6
+<Hat> lands on Penalty
+<Hat> rolls 3
+<Hat> Visit the SU shop for food. Lose œ100
+<Hat> has  œ19045
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ20
+
+<Hat> rolls 6
+<Hat> lands on Blue Way
+<Hat> pays œ45 to Hat
+<Hat> has  œ19045
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ-10
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Street
+<Hat> has  œ19275
+
+<Shoe> rolls 1
+<Shoe> mortgage Brown Road for 140
+<Shoe> repay mortgaged Red Road for 60
+<Shoe> lands on Yellow Street
+<Shoe> pays œ30 to Shoe
+<Shoe> has  œ70
+
+<Hat> rolls 6
+<Hat> lands on Brown Street
+<Hat> pays œ40 to Shoe
+<Hat> has  œ19235
+
+<Shoe> rolls 1
+<Shoe> repay mortgaged Red Street for 80
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ-270
+
+<Hat> rolls 3
+<Hat> lands on Orange Street
+<Hat> pays œ25 to Hat
+<Hat> has  œ19235
+
+<Shoe> rolls 1
+<Shoe> mortgage Red Road for 60
+<Shoe> mortgage Red Street for 80
+<Shoe> mortgage Brown Street for 160
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ-40
+
+<Hat> rolls 6
+<Hat> lands on Green Road
+<Hat> pays œ70 to Hat
+<Hat> has  œ19305
+
+<Shoe> rolls 1
+<Shoe> mortgage Orange Road for 180
+<Shoe> repay mortgaged Red Road for 60
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ10
+
+<Hat> rolls 6
+<Hat> lands on Bus Station
+<Hat> has  œ19375
+
+<Shoe> rolls 1
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ-40
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Bonus
+<Hat> rolls 3
+<Hat> Received a rent rebate. Gain œ100
+<Hat> has  œ19675
+
+<Shoe> rolls 1
+<Shoe> mortgage Red Road for 60
+<Shoe> lands on Brown Road
+<Shoe> has  œ20
+
+<Hat> rolls 6
+<Hat> lands on Railway Station
+<Hat> has  œ19675
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> has  œ20
+
+<Hat> rolls 6
+<Hat> lands on Yellow Street
+<Hat> pays œ30 to Shoe
+<Hat> has  œ19645
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ50
+
+<Hat> rolls 6
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ19645
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> has  œ50
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> has  œ19845
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ25
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> has  œ19870
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ0
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ19895
+
+<Shoe> rolls 1
+<Shoe> lands on Free Parking
+<Shoe> is resting
+<Shoe> has  œ0
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ19845
+
+<Shoe> rolls 1
+<Shoe> lands on Yellow Road
+<Shoe> pays œ30 to Hat
+<Shoe> has  œ-30
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ19875
+
+<Shoe> rolls 1
+<Shoe> mortgage Yellow Street for 240
+<Shoe> repay mortgaged Brown Road for 140
+<Shoe> repay mortgaged Red Road for 60
+<Shoe> lands on Yellow Street
+<Shoe> has  œ10
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ19875
+
+<Shoe> rolls 1
+<Shoe> lands on Penalty
+<Shoe> rolls 6
+<Shoe> Pay some university fees. Lose œ300
+<Shoe> has  œ-290
+
+<Hat> rolls 3
+<Hat> lands on Blue Street
+<Hat> pays œ45 to Hat
+<Hat> has  œ19875
+
+<Shoe> rolls 1
+<Shoe> mortgage Red Road for 60
+<Shoe> mortgage Brown Road for 140
+<Shoe> mortgage Blue Road for 300
+<Shoe> repay mortgaged Red Street for 80
+<Shoe> repay mortgaged Red Road for 60
+<Shoe> lands on Green Road
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ0
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Red Road
+<Hat> pays œ5 to Shoe
+<Hat> has  œ20140
+
+<Shoe> rolls 1
+<Shoe> lands on Green Street
+<Shoe> pays œ70 to Hat
+<Shoe> has  œ-65
+
+<Hat> rolls 6
+<Hat> lands on Brown Road
+<Hat> has  œ20210
+
+<Shoe> rolls 1
+<Shoe> mortgage Red Road for 60
+<Shoe> mortgage Red Street for 80
+<Shoe> repay mortgaged Red Road for 60
+<Shoe> lands on Go to Jail
+<Shoe> goes to Jail
+<Shoe> pays œ50
+<Shoe> has  œ-35
+
+<Hat> rolls 6
+<Hat> lands on Free Parking
+<Hat> is resting
+<Hat> has  œ20210
+
+<Shoe> rolls 1
+<Shoe> mortgage Red Road for 60
+<Shoe> lands on Brown Road
+<Shoe> has  œ25
+
+<Hat> rolls 6
+<Hat> lands on Go to Jail
+<Hat> goes to Jail
+<Hat> pays œ50
+<Hat> has  œ20160
+
+<Shoe> rolls 1
+<Shoe> lands on Brown Street
+<Shoe> has  œ25
+
+<Hat> rolls 6
+<Hat> lands on Orange Way
+<Hat> pays œ25 to Hat
+<Hat> has  œ20160
+
+<Shoe> rolls 1
+<Shoe> lands on Railway Station
+<Shoe> has  œ25
+
+<Hat> rolls 6
+<Hat> lands on Green Street
+<Hat> pays œ70 to Hat
+<Hat> has  œ20160
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Road
+<Shoe> has  œ25
+
+<Hat> rolls 6
+<Hat> lands on Purple Road
+<Hat> pays œ100 to Hat
+<Hat> has  œ20160
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Street
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ0
+
+<Hat> rolls 6
+<Hat> passes GO and collects œ200
+<Hat> lands on Grey Road
+<Hat> pays œ30 to Hat
+<Hat> has  œ20385
+
+<Shoe> rolls 1
+<Shoe> lands on Orange Way
+<Shoe> pays œ25 to Hat
+<Shoe> has  œ-25
+
+<Hat> rolls 6
+<Hat> lands on Orange Road
+<Hat> has  œ20410
+
+<Shoe> rolls 1
+
+<Shoe> went bankrupt
+
+Game Over
+<Hat> wins.
+
+Total rounds: 707

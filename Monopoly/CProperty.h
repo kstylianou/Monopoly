@@ -1,3 +1,10 @@
+/*
+ * Kyriakos Stylianou
+ * kstylianou1@uclan.ac.uk
+ * G20795768
+ *
+ */
+
 #pragma once
 #include <string>
 
