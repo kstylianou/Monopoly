@@ -39,7 +39,6 @@ public:
 	// Getters:
 	string GetName() { return name; }
 	int GetCode() { return code; }
-	virtual int GetCost();
 
 private:
 

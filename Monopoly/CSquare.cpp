@@ -47,13 +47,6 @@ void CSquare::PrintSquareMessage(s_Player players, int roundPlayerIndex, int squ
 	// Do nothing for this type of square
 }
 
-// todo 
-int CSquare::GetCost()
-{
-	// Do nothing for this type of square
-	return 0;
-}
-
 // Print the square player landed
 void CSquare::PrintPlayerSquareLands(string name)
 {

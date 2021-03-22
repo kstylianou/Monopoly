@@ -21,8 +21,9 @@ public:
 
 	// Override functions from CSqure
 	void PlayerReword(s_Player players, int roundPlayerIndex, int squareIndex) override;
-	int GetCost() override { return this->cost; }
 
+	// Getters
+	int GetCost() { return cost; }
 
 private:
 	// Private member functions

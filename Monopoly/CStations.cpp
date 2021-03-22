@@ -37,12 +37,6 @@ void CStations::PlayerReword(s_Player players, int roundPlayerIndex, int squareI
 	}
 }
 
-// Get cost
-int CStations::GetCost()
-{
-	return this->cost;
-}
-
 // Check if the property is owned by player
 auto CStations::CheckIfPropertyIsOwned(const s_Player& players, int squareIndex) -> bool
 {

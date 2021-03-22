@@ -20,8 +20,6 @@ public:
 	// Player buys or pays rent
 	void PlayerReword(s_Player players, int roundPlayerIndex, int squareIndex) override;
 
-	// Get cost
-	int GetCost() override;
 
 private:
 	// Private member functions

@@ -60,11 +60,14 @@ void CBank::MortgagePlayerProperty(shared_ptr<CPlayer> player, v_Square squares,
 	// Add to the player the mortgage property index
 	player->SetPlayerMortgage(squareIndex);
 
+	// Get Property cost
+	int propertyCost = static_pointer_cast<CProperty>(squares->at(squareIndex))->GetCost();
+
 	// Print that bank mortgage property
-	cout << "<" + player->GetName() + ">" << " mortgage " << squares->at(squareIndex)->GetName() << " for " << static_pointer_cast<CProperty>(squares->at(squareIndex))->GetCost() << endl;
+	cout << "<" + player->GetName() + ">" << " mortgage " << squares->at(squareIndex)->GetName() << " for " << propertyCost << endl;
 
 	// Set the value of the property to the player money
-	player->SetMoney(player->GetMoney() + squares->at(squareIndex)->GetCost());
+	player->SetMoney(player->GetMoney() + propertyCost);
 }
 
 // Player pays for mortgaged properties
@@ -76,14 +79,17 @@ void CBank::PayMortgageProperty(shared_ptr<CPlayer> player, v_Square squares)
 		// Go through all mortgaged properties
 		for (int i = 0; i < player->GetMortgageLength(); i++)
 		{
+			// Get Property cost
+			const int propertyCost = static_pointer_cast<CProperty>(squares->at(player->GetMortgageByIndex(i)))->GetCost(); 
+			
 			// Check If player has enough money to repay for the mortgaged property
-			if (player->GetMoney() > squares->at(player->GetMortgageByIndex(i))->GetCost())
+			if (player->GetMoney() > propertyCost)
 			{
 				// Get the money from the player
-				player->SetMoney(player->GetMoney() - squares->at(player->GetMortgageByIndex(i))->GetCost());
+				player->SetMoney(player->GetMoney() - propertyCost);
 
 				// Print that player repay for his mortgaged property
-				cout << "<" + player->GetName() + ">" << " repay mortgaged " << squares->at(player->GetMortgageByIndex(i))->GetName() << " for " << squares->at(player->GetMortgageByIndex(i))->GetCost() << endl;
+				cout << "<" + player->GetName() + ">" << " repay mortgaged " << squares->at(player->GetMortgageByIndex(i))->GetName() << " for " << propertyCost << endl;
 
 				// Remove the mortgaged property
 				player->PlayerPaysMortgageProperty(player->GetMortgageByIndex(i));
@@ -97,34 +103,35 @@ void CBank::PayMortgageProperty(shared_ptr<CPlayer> player, v_Square squares)
 // Get the lowest valued property that player owns
 int CBank::GetMinPropertyCost(shared_ptr<CPlayer> player, v_Square squares, int& index)
 {
-	// index of 0 can be mortgage property so i have to use dummy number to check for the lowest valued property if any
-	int min = 1000;
+	int min = -1;
 
-	// Check if the index 0 is not mortgage property
-	if (!player->CheckIfPropertyIsMortgage(0))
+	// Get the first non mortgaged property
+	for(int i = 0; i < player->OwnPropertyLength(); i++)
 	{
-		// Min is the first valued property for now
-		min = squares->at(player->GetOwnPropertyByIndex(0))->GetCost();
-		// Index for the lowest is the 0 for now
-		index = player->GetOwnPropertyByIndex(0);
+		if(!player->CheckIfPropertyIsMortgage(i))
+		{
+			// Min is the first owned property
+			min = static_pointer_cast<CProperty>(squares->at(player->GetOwnPropertyByIndex(i)))->GetCost();
+
+			// Index for the lowest 
+			index = player->GetOwnPropertyByIndex(i);
+
+			break;
+		}
 	}
 	
 	for (int i = 1; i < player->OwnPropertyLength(); i++)
 	{
 		// Check if the property cost is less than "min" and if the property of "i" is not mortgage
-		if (squares->at(player->GetOwnPropertyByIndex(i))->GetCost() < min && !player->CheckIfPropertyIsMortgage(i))
+		if (static_pointer_cast<CProperty>(squares->at(player->GetOwnPropertyByIndex(i)))->GetCost() < min && !player->CheckIfPropertyIsMortgage(i))
 		{
 			// min valued property
-			min = squares->at(player->GetOwnPropertyByIndex(i))->GetCost();
+			min = static_pointer_cast<CProperty>(squares->at(player->GetOwnPropertyByIndex(i)))->GetCost();
 			// Property index
 			index = player->GetOwnPropertyByIndex(i);
 		}
 	}
 
-	// Check if the min is not the dummy number
-	if (min != 1000)
-		return min;
-
-	// if not property found return -1
-	return -1;
+	
+	return min;
 }
