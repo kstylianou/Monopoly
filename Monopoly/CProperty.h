@@ -32,8 +32,6 @@ private:
 	void PlayerPaysRent(s_Player players, int roundPlayerIndex, int squareIndex);
 
 	// Private variables
-	string name; // Square name
-	int code; // Square code
 	int cost; // Property cost
 	int rent; // Property rent
 	int colour; // Property colour

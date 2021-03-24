@@ -45,19 +45,17 @@ public:
 	void UpdateRound();
 	void UpdateGame();
 
-protected:
+private:
 	// Member methods
 	s_Squares SetSquares(string line);
 	bool SetPlayers();
 	bool OpenSquareFile();
 	static void WelcomeMessage();
-	void GetFirstPlayer();
 	void GetWinner();
-	void PlayerAreBankrupt();
+	void PlayersWentBankrupt();
 
 	// Private variables
 	v_Player player; 
-	v_Player sortedPlayers;
 	v_Square square;
 	v_PlayerNames player_names;
 	u_Bank bank;

@@ -39,8 +39,8 @@ public:
 
 	// Member functions
 	int roll();
-	int MovePlayerPosition(int roolNum);
-	void PlayerPassesGo();
+	int MovePlayerPosition(int rollNum);
+
 	void PlayerOwnsNewProperty(int propertyIndex, int colour);
 	bool PlayerOwns(int propertyIndex);
 	bool PlayerOwnsAllColour(int colour);
@@ -70,6 +70,9 @@ public:
 	void PlayerOwnsStation(int index) { playerStationOwns->push_back(index); }
 
 private:
+	// Private Member functions
+	void PlayerPassesGo();
+	
 	// Private variables
 	string name;
 	int position;

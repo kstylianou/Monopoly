@@ -51,7 +51,7 @@ void CManager::UpdateRound()
 	while(this->state)
 	{
 		// Check if the players went bankrupt
-		PlayerAreBankrupt();
+		PlayersWentBankrupt();
 
 		// Update game for each player
 		UpdateGame();
@@ -219,7 +219,7 @@ void CManager::GetWinner()
 }
 
 // Check if 3 of the player went bankrupt to end the game
-void CManager::PlayerAreBankrupt()
+void CManager::PlayersWentBankrupt()
 {
 	if (this->playersBankrupt > 2)
 	{

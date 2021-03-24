@@ -32,7 +32,7 @@ void CStations::PlayerReword(s_Player players, int roundPlayerIndex, int squareI
 	}
 	else
 	{
-		this->PlayerPaysRent(players, roundPlayerIndex, squareIndex); // Player pays rent
+		this->PlayerPaysTicket(players, roundPlayerIndex, squareIndex); // Player pays rent
 		
 	}
 }
@@ -66,7 +66,7 @@ void CStations::PlayerBuysProperty(s_Player players, int roundPlayerIndex, int s
 
 
 // Player who landed in this station square pays rent
-void CStations::PlayerPaysRent(const s_Player& players, int roundPlayerIndex, int squareIndex) const
+void CStations::PlayerPaysTicket(const s_Player& players, int roundPlayerIndex, int squareIndex) const
 {
 	for (int i = 0; i < players->size(); i++)
 	{
