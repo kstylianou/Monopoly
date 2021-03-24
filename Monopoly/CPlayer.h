@@ -70,6 +70,7 @@ public:
 	void PlayerOwnsStation(int index) { playerStationOwns->push_back(index); }
 
 private:
+	// Private variables
 	string name;
 	int position;
 	int money;

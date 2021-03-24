@@ -31,6 +31,7 @@ CManager::~CManager()
 // Load game method
 bool CManager::SetGame()
 {
+	// Return if all is set correctly
 	return (OpenSquareFile() && SetPlayers());
 }
 
@@ -39,23 +40,24 @@ void CManager::StartGame()
 {
 	WelcomeMessage(); // Welcome message in console
 	
-	UpdateRound();
+	UpdateRound(); // Update game for each round
 	
 }
 
 // Update players round
 void CManager::UpdateRound()
 {
-	
+	// While the state is STATE_RUNNING
 	while(this->state)
 	{
-
+		// Check if the players went bankrupt
 		PlayerAreBankrupt();
 
-		
+		// Update game for each player
 		UpdateGame();
-		srand(this->seed);
+
 		
+		srand(this->seed);
 		
 		this->round++;
 	}
@@ -68,26 +70,41 @@ void CManager::UpdateGame()
 	switch (this->state)
 	{
 	case STATE_RUNNING:
+
 		for(int i = 0; i < player->size(); i++)
 		{
-			cout << endl;
-		
+			cout << endl; // Empty line
+
+			// Player roll dice
 			int playerRolls = player->at(i)->roll();
+
+			// Get position that player landed
 			int playerPosition = player->at(i)->MovePlayerPosition(playerRolls);
+
+			// Check if the player has negative money and property to mortgage
 			bank->CheckPlayer(player->at(i), square);
+
+			// Check if player has positive amount of money and can pay for mortgaged properties if any
 			bank->PayMortgageProperty(player->at(i), square);
-			
+
+			// Check if player went bankrupt
 			if (!player->at(i)->isPlaying()) {
+				// Remove player from tha game
 				player->erase(remove(player->begin(), player->end(), player->at(i)), player->end());
+			
 				this->playersBankrupt++;
 				break;
-			}	
+			}
+
+			// Player land on square after rolling dice
 			square->at(playerPosition)->PlayerLands(player, i, playerPosition);
 		}
 		break;
 		
 	case STATE_FINISH:
 		cout << "\nGame Over" << endl;
+
+		// Get game winner
 		GetWinner();
 		
 		break;
@@ -140,11 +157,7 @@ s_Squares CManager::SetSquares(std::string line)
 	case 8: // When code is "8" Square is Parking Square
 		ssin >> name >> second_name;
 		return  make_shared<CParking>(name + " " + second_name, code);
-		
-	
 	}
-
-
 }
 
 // Set players
@@ -205,6 +218,7 @@ void CManager::GetWinner()
 	
 }
 
+// Check if 3 of the player went bankrupt to end the game
 void CManager::PlayerAreBankrupt()
 {
 	if (this->playersBankrupt > 2)

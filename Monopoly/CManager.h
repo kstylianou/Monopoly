@@ -1,11 +1,7 @@
 #pragma once
 #include <memory>
-#include <memory>
 #include <string>
 #include <vector>
-
-
-
 #include "CBank.h"
 #include "CPlayer.h"
 #include "CBonus.h"
@@ -59,8 +55,8 @@ protected:
 	void GetWinner();
 	void PlayerAreBankrupt();
 
-
-	v_Player player;
+	// Private variables
+	v_Player player; 
 	v_Player sortedPlayers;
 	v_Square square;
 	v_PlayerNames player_names;

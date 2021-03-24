@@ -6,7 +6,6 @@
  */
 
 #include "CPlayer.h"
-
 #include <iostream>
 
 // Constructor
