@@ -28,6 +28,8 @@ using namespace std;
 typedef unique_ptr<vector<int>> v_int;
 typedef vector<int> v_newInt;
 
+const char POUND = 156;
+
 class CPlayer
 {
 public:
@@ -50,8 +52,6 @@ public:
 	// Getters
 	string GetName() const { return name; }
 	int GetMoney() const { return money; }
-	void SetMoney(int i) { money = i; }
-	void SetPosition(int i) { position = i; }
 	int OwnPropertyLength() const { return playerOwns->size(); }
 	bool isPlaying() const { return this->state; }
 	int GetMortgageLength() const { return mortgageProperties->size(); }
@@ -60,7 +60,6 @@ public:
 	bool CheckIfPropertyIsMortgageBySquare(int index) const { return (count(mortgageProperties->begin(), mortgageProperties->end(), index)); }
 	bool PlayerHasMortgageProperty() const { return (!mortgageProperties->empty()); }
 	int GetMortgageByIndex(int index) const { return mortgageProperties->at(index); }
-	bool PlayerHasNegativeMoney() const { return (this->money < 0); }
 	int GetOwnPropertyByIndex(int index) const { return playerOwns->at(index); }
 	bool GetPlayerOwnsStation(int index) const { return (count(playerStationOwns->begin(), playerStationOwns->end(), index)); }
 
@@ -68,6 +67,8 @@ public:
 	void SetPlayerMortgage(int squareIndex) const { mortgageProperties->push_back(squareIndex); }
 	void PlayerPaysMortgageProperty(int squareIndex) const { mortgageProperties->erase(remove(mortgageProperties->begin(), mortgageProperties->end(), squareIndex), mortgageProperties->end()); }
 	void PlayerOwnsStation(int index) { playerStationOwns->push_back(index); }
+	void SetMoney(int i) { money = i; }
+	void SetPosition(int i) { position = i; }
 
 private:
 	// Private Member functions

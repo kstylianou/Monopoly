@@ -60,7 +60,7 @@ void CPlayer::PlayerPassesGo()
 	money += 200; // Add 200 to player money
 	
 	// Print tha player passes go
-	cout << "<" + name + ">" << " passes GO and collects " << static_cast<char>(156) << 200 << endl;
+	cout << "<" + name + ">" << " passes GO and collects " << POUND << 200 << endl;
 }
 
 // When player buys new property
@@ -121,7 +121,7 @@ bool CPlayer::PlayerOwnsAllColour(int colour)
 // Print player current money
 void CPlayer::PrintMoney()
 {
-	cout << "<" + this->name + ">" << " has  " << static_cast<char>(156) << this->money << endl;
+	cout << "<" + this->name + ">" << " has  " << POUND << this->money << endl;
 }
 
 // Player went bankrupt

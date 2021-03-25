@@ -23,7 +23,7 @@ CBank::~CBank()
 void CBank::CheckPlayer(shared_ptr<CPlayer> player, v_Square squares)
 {
 	// Check if player has negative money and still playing
-	while(player->PlayerHasNegativeMoney() && player->isPlaying())
+	while(player->GetMoney() < 0 && player->isPlaying())
 	{
 		// Check if player has any properties and if not all properties has mortgage
 		if (player->OwnPropertyLength() > player->GetMortgageLength()) {
@@ -64,7 +64,7 @@ void CBank::MortgagePlayerProperty(shared_ptr<CPlayer> player, v_Square squares,
 	int propertyCost = static_pointer_cast<CProperty>(squares->at(squareIndex))->GetCost();
 
 	// Print that bank mortgage property
-	cout << "<" + player->GetName() + ">" << " mortgage " << squares->at(squareIndex)->GetName() << " for " << propertyCost << endl;
+	cout << "<" + player->GetName() + ">" << " mortgage " << squares->at(squareIndex)->GetName() << " for " << POUND << propertyCost << endl;
 
 	// Set the value of the property to the player money
 	player->SetMoney(player->GetMoney() + propertyCost);
@@ -89,7 +89,7 @@ void CBank::PayMortgageProperty(shared_ptr<CPlayer> player, v_Square squares)
 				player->SetMoney(player->GetMoney() - propertyCost);
 
 				// Print that player repay for his mortgaged property
-				cout << "<" + player->GetName() + ">" << " repay mortgaged " << squares->at(player->GetMortgageByIndex(i))->GetName() << " for " << propertyCost << endl;
+				cout << "<" + player->GetName() + ">" << " repay mortgaged " << squares->at(player->GetMortgageByIndex(i))->GetName() << " for " << POUND << propertyCost << endl;
 
 				// Remove the mortgaged property
 				player->PlayerPaysMortgageProperty(player->GetMortgageByIndex(i));

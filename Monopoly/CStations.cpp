@@ -61,7 +61,7 @@ void CStations::PlayerBuysProperty(s_Player players, int roundPlayerIndex, int s
 	players->at(roundPlayerIndex)->PlayerOwnsStation(squareIndex);
 
 	// Print player buys <station> 
-	cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " buys " << this->GetName() << " for " << static_cast<char>(156) << this->cost << endl;
+	cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " buys " << this->GetName() << " for " << POUND << this->cost << endl;
 }
 
 
@@ -80,7 +80,7 @@ void CStations::PlayerPaysTicket(const s_Player& players, int roundPlayerIndex, 
 			players->at(i)->SetMoney(players->at(i)->GetMoney() + this->ticket);
 
 			// Print player pays rent
-			cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " pays " << static_cast<char>(156) << this->ticket << " for ticket" << endl;
+			cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " pays " << POUND << this->ticket << " for ticket" << endl;
 		}
 	}
 }

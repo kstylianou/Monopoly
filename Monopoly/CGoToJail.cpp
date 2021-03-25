@@ -34,6 +34,6 @@ void CGoToJail::PlayerReword(s_Player players, int roundPlayerIndex, int squareI
     players->at(roundPlayerIndex)->SetMoney(players->at(roundPlayerIndex)->GetMoney() - 50);
 
 	
-    cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " pays " << static_cast<char>(156) << "50" << endl;
+    cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " pays " << POUND << "50" << endl;
 }
 

@@ -86,7 +86,7 @@ void CProperty::PlayerPaysRent(s_Player players, int roundPlayerIndex, int squar
 			players->at(i)->SetMoney(players->at(i)->GetMoney() + payRent);
 
 			// Print player pays rent
-			cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " pays " << static_cast<char>(156) << payRent << " to " << players->at(i)->GetName() << endl;
+			cout << "<" + players->at(roundPlayerIndex)->GetName() + ">" << " pays " << POUND << payRent << " to " << players->at(i)->GetName() << endl;
 		}
 	}
 }
